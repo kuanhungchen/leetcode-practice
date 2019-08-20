@@ -24,8 +24,10 @@
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0027|[Remove Element](https://leetcode.com/problems/remove-element/)|[remove-element.py](./Python/remove-element.py)| Easy | |
 | 0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[maximum-subarray.py](./Python/maximum-subarray.py)| Easy | |
 | 0118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[pascal's-triangle.py](./Python/pascal's-triangle.py)| Easy | |
+| 0119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[pascal's-triangle-ii.py](./Python/pascal's-triangle-ii.py)| Easy | |
 | 0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[best-time-to-buy-and-sell-stock.py](./Python/best-time-to-buy-and-sell-stock.py)| Easy | |
 | 0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[best-time-to-buy-and-sell-stock-ii.py](./Python/best-time-to-buy-and-sell-stock-ii.py)| Easy | |
 | 0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[two-sum-ii-input-array-is-sorted.py](./Python/two-sum-ii-input-array-is-sorted.py)| Easy | |
@@ -39,6 +41,7 @@
 | 0561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[array-partition-i.py](./Python/array-partition-i.py)| Easy | |
 | 0566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[reshape-the-matrix.py](./Python/reshape-the-matrix.py)| Easy | |
 | 0628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/submissions/)|[maximum-product-of-three-numbers.py](./Python/maximum-product-of-three-numbers.py)| Easy | |
+| 0674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[longest-continuous-increasing-subsequence.py](./Python/longest-continuous-increasing-subsequence.py)| Easy | |
 | 0697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)|[degree-of-an-array.py](./Python/degree-of-an-array.py)| Easy | |
 | 0717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters)|[1-bit-and-2-bit-characters.py](./Python/1-bit-and-2-bit-characters.py)| Easy | |
 | 0746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[min-cost-climbing-stairs.py](./Python/min-cost-climbing-stairs.py)| Easy | |
@@ -60,6 +63,7 @@
 | 1051|[Height Checker](https://leetcode.com/problems/height-checker/)|[height-checker.py](./Python/height-checker.py)| Easy | |
 | 1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[duplicate-zeros.py](./Python/duplicate-zeros.py)| Easy | |
 | 1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[relative-sort-array.py](./Python/relative-sort-array.py)| Easy | |
+| 1128|[Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)|[number-of-equivalent-domino-pairs.py](./Python/number-of-equivalent-domino-pairs.py)| Easy | [str-vs-repr](./notes/str-vs-repr.md) |
 
 ## Dynamic Programming ##
 
@@ -110,6 +114,7 @@
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0027|[Remove Element](https://leetcode.com/problems/remove-element/)|[remove-element.py](./Python/remove-element.py)| Easy | |
 | 0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[two-sum-ii-input-array-is-sorted.py](./Python/two-sum-ii-input-array-is-sorted.py)| Easy | |
 | 0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[move-zeroes.py](./Python/move-zeroes.py)| Easy | |
 | 0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[intersection-of-two-arrays.py](./Python/intersection-of-two-arrays.py)| Easy | |

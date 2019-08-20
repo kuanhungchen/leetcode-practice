@@ -1,4 +1,4 @@
-# collections #
+# collections
 
 * [namedtuple()](#namedtuple())
 * [deque](#deque)
@@ -6,7 +6,7 @@
 * [OrderedDict](#ordereddict)
 * [defaultdict](#defaultdict)
 
-## namedtuple() ##
+## namedtuple()
 
 _Named tuples assign meaning to each position in a tuple and allow for more readable, self-documenting code. They can be used wherever regular tuples are used, and they add the ability to access fields by name instead of position index._
 
@@ -39,7 +39,7 @@ print(Kevin)
 # output: Person(gender='male', age=40, x=80)
 ```
 
-## deque ##
+## deque
 
 _Deques are a generalization of stacks and queues (the name is short for "double-ended queue")._
 
@@ -71,7 +71,7 @@ Remove and return an element from the right side of the deque.
 **popleft()**:  
 Remove and return an element from the left side of the deque.
 
-## Counter ##
+## Counter
 
 _A Counter is a dict subclass for counting hashable objects._
 
@@ -113,7 +113,7 @@ print(c.most_common(1))
 # output: [('Kevin', 2)]
 ```
 
-## OrderedDict ##
+## OrderedDict
 
 _An **ordered** dict subclass._
 
@@ -130,7 +130,7 @@ r_dict.move_to_end('A')
 # output: B 2 C 3 A 1
 ```
 
-## defaultdict ##
+## defaultdict
 
 _A subclass of the built-in dict class._
 
