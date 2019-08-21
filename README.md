@@ -24,6 +24,7 @@
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[remove-duplicates-from-sorted-array.py](./Python/remove-duplicates-from-sorted-array.py)| Easy | |
 | 0027|[Remove Element](https://leetcode.com/problems/remove-element/)|[remove-element.py](./Python/remove-element.py)| Easy | |
 | 0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[maximum-subarray.py](./Python/maximum-subarray.py)| Easy | |
 | 0118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[pascal's-triangle.py](./Python/pascal's-triangle.py)| Easy | |
@@ -44,6 +45,7 @@
 | 0674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[longest-continuous-increasing-subsequence.py](./Python/longest-continuous-increasing-subsequence.py)| Easy | |
 | 0697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)|[degree-of-an-array.py](./Python/degree-of-an-array.py)| Easy | |
 | 0717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters)|[1-bit-and-2-bit-characters.py](./Python/1-bit-and-2-bit-characters.py)| Easy | |
+| 0724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/submissions/)|[find-pivot-index.py](./Python/find-pivot-index.py)| Easy | |
 | 0746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[min-cost-climbing-stairs.py](./Python/min-cost-climbing-stairs.py)| Easy | |
 | 0766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[toeplitz-matrix.py](./Python/toeplitz.py)| Easy | |
 | 0830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[positions-of-large-groups.py](./Python/positions-of-large-groups.py)| Easy | |
@@ -55,6 +57,7 @@
 | 0922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[sort-array-by-parity-ii.py](./Python/sort-array-by-parity-ii.py)| Easy | |
 | 0977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[squares-of-a-sorted-array.py](./Python/squares-of-a-sorted-array.py)| Easy | |
 | 0985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)|[sum-of-even-numbers-after-queries.py](./Python/sum-of-even-numbers-after-queries.py)| Easy | |
+| 0989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[add-to-array-form-of-integer.py](./Python/add-to-array-form-of-integer.py)| Easy | |
 | 0999|[Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)|[available-captures-for-rook](./Python/available-captures-for-rook.py)| Easy | |
 | 1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[find-common-characters.py](./Python/find-common-characters)| Easy | [collections](./notes/collections.md) |
 | 1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[pairs-of-songs-with-total-durations-divisible-by-60.py](./Python/pairs-of-songs-with-total-durations-divisible-by-60.py)| Easy | |
@@ -114,6 +117,7 @@
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[remove-duplicates-from-sorted-array.py](./Python/remove-duplicates-from-sorted-array.py)| Easy | |
 | 0027|[Remove Element](https://leetcode.com/problems/remove-element/)|[remove-element.py](./Python/remove-element.py)| Easy | |
 | 0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[two-sum-ii-input-array-is-sorted.py](./Python/two-sum-ii-input-array-is-sorted.py)| Easy | |
 | 0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[move-zeroes.py](./Python/move-zeroes.py)| Easy | |
