@@ -26,7 +26,9 @@
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[remove-duplicates-from-sorted-array.py](./Python/remove-duplicates-from-sorted-array.py)| Easy | |
 | 0027|[Remove Element](https://leetcode.com/problems/remove-element/)|[remove-element.py](./Python/remove-element.py)| Easy | |
+| 0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[search-insert-position.py](./Python/search-insert-position.py)| Easy | |
 | 0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[maximum-subarray.py](./Python/maximum-subarray.py)| Easy | |
+| 0066|[Plus One](https://leetcode.com/problems/plus-one/)|[plus-one.py](./Python/plus-one.py)| Easy | |
 | 0118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[pascal's-triangle.py](./Python/pascal's-triangle.py)| Easy | |
 | 0119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[pascal's-triangle-ii.py](./Python/pascal's-triangle-ii.py)| Easy | |
 | 0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[best-time-to-buy-and-sell-stock.py](./Python/best-time-to-buy-and-sell-stock.py)| Easy | |
@@ -47,9 +49,11 @@
 | 0717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters)|[1-bit-and-2-bit-characters.py](./Python/1-bit-and-2-bit-characters.py)| Easy | |
 | 0724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/submissions/)|[find-pivot-index.py](./Python/find-pivot-index.py)| Easy | |
 | 0746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[min-cost-climbing-stairs.py](./Python/min-cost-climbing-stairs.py)| Easy | |
+| 0747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[largest-number-at-least-twice-of-others.py](./Python/largest-number-at-least-twice-of-others.py)| Easy | |
 | 0766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[toeplitz-matrix.py](./Python/toeplitz.py)| Easy | |
 | 0830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[positions-of-large-groups.py](./Python/positions-of-large-groups.py)| Easy | |
 | 0832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image)|[flipping-an-image.py](./Python/flipping-an-image.py)| Easy | |
+| 0849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[maximize-distance-to-closest-person.py](./Python/maximize-distance-to-closest-person.py)| Easy | |
 | 0867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[transpose-matrix.py](./Python/transpose-matrix.py)| Easy | |
 | 0888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|[fair-candy-swap.py](./Python/fair-candy-swap.py)| Easy | |
 | 0896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[monotonic-array](./Python/monotonic-array.py)| Easy | |
@@ -67,6 +71,7 @@
 | 1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[duplicate-zeros.py](./Python/duplicate-zeros.py)| Easy | |
 | 1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[relative-sort-array.py](./Python/relative-sort-array.py)| Easy | |
 | 1128|[Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)|[number-of-equivalent-domino-pairs.py](./Python/number-of-equivalent-domino-pairs.py)| Easy | [str-vs-repr](./notes/str-vs-repr.md) |
+| 1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)|[find-words-that-can-be-formed-by-characters.py](./Python/find-words-that-can-be-formed-by-characters.py)| Easy | |
 
 ## Dynamic Programming ##
 
@@ -96,11 +101,13 @@
 | 0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[intersection-of-two-arrays.py](./Python/intersection-of-two-arrays.py)| Easy | |
 | 0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[intersection-of-two-arrays-ii.py](./Python/intersection-of-two-arrays-ii.py)| Easy | |
 | 1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[find-common-characters.py](./Python/find-common-characters)| Easy | |
+| 1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)|[find-words-that-can-be-formed-by-characters.py](./Python/find-words-that-can-be-formed-by-characters.py)| Easy | |
 
 ## Binary Search ##
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[search-insert-position.py](./Python/search-insert-position.py)| Easy | |
 | 0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[two-sum-ii-input-array-is-sorted.py](./Python/two-sum-ii-input-array-is-sorted.py)| Easy | |
 | 0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[intersection-of-two-arrays.py](./Python/intersection-of-two-arrays.py)| Easy | |
 | 0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[intersection-of-two-arrays-ii.py](./Python/intersection-of-two-arrays-ii.py)| Easy | |
