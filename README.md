@@ -24,11 +24,13 @@
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0001|[Two Sum](https://leetcode.com/problems/two-sum/)|[two-sum.py](./Python/two-sum.py)| Easy | |
 | 0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[remove-duplicates-from-sorted-array.py](./Python/remove-duplicates-from-sorted-array.py)| Easy | |
 | 0027|[Remove Element](https://leetcode.com/problems/remove-element/)|[remove-element.py](./Python/remove-element.py)| Easy | |
 | 0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[search-insert-position.py](./Python/search-insert-position.py)| Easy | |
 | 0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[maximum-subarray.py](./Python/maximum-subarray.py)| Easy | |
 | 0066|[Plus One](https://leetcode.com/problems/plus-one/)|[plus-one.py](./Python/plus-one.py)| Easy | |
+| 0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[merge-sorted-array.py](./Python/merge-sorted-array.py)| Easy | |
 | 0118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[pascal's-triangle.py](./Python/pascal's-triangle.py)| Easy | |
 | 0119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[pascal's-triangle-ii.py](./Python/pascal's-triangle-ii.py)| Easy | |
 | 0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[best-time-to-buy-and-sell-stock.py](./Python/best-time-to-buy-and-sell-stock.py)| Easy | |
@@ -44,13 +46,14 @@
 | 0561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[array-partition-i.py](./Python/array-partition-i.py)| Easy | |
 | 0566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[reshape-the-matrix.py](./Python/reshape-the-matrix.py)| Easy | |
 | 0628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/submissions/)|[maximum-product-of-three-numbers.py](./Python/maximum-product-of-three-numbers.py)| Easy | |
+| 0643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[maximum-average-subarray-i.py](./Python/maximum-average-subarray-i.py)| Easy | |
 | 0674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[longest-continuous-increasing-subsequence.py](./Python/longest-continuous-increasing-subsequence.py)| Easy | |
 | 0697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)|[degree-of-an-array.py](./Python/degree-of-an-array.py)| Easy | |
 | 0717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters)|[1-bit-and-2-bit-characters.py](./Python/1-bit-and-2-bit-characters.py)| Easy | |
 | 0724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/submissions/)|[find-pivot-index.py](./Python/find-pivot-index.py)| Easy | |
 | 0746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[min-cost-climbing-stairs.py](./Python/min-cost-climbing-stairs.py)| Easy | |
 | 0747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[largest-number-at-least-twice-of-others.py](./Python/largest-number-at-least-twice-of-others.py)| Easy | |
-| 0766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[toeplitz-matrix.py](./Python/toeplitz.py)| Easy | |
+| 0766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[toeplitz-matrix.py](./Python/toeplitz-matrix.py)| Easy | |
 | 0830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[positions-of-large-groups.py](./Python/positions-of-large-groups.py)| Easy | |
 | 0832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image)|[flipping-an-image.py](./Python/flipping-an-image.py)| Easy | |
 | 0849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[maximize-distance-to-closest-person.py](./Python/maximize-distance-to-closest-person.py)| Easy | |
@@ -63,7 +66,7 @@
 | 0985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)|[sum-of-even-numbers-after-queries.py](./Python/sum-of-even-numbers-after-queries.py)| Easy | |
 | 0989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[add-to-array-form-of-integer.py](./Python/add-to-array-form-of-integer.py)| Easy | |
 | 0999|[Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)|[available-captures-for-rook](./Python/available-captures-for-rook.py)| Easy | |
-| 1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[find-common-characters.py](./Python/find-common-characters)| Easy | [collections](./notes/collections.md) |
+| 1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[find-common-characters.py](./Python/find-common-characters.py)| Easy | [collections](./notes/collections.md) |
 | 1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[pairs-of-songs-with-total-durations-divisible-by-60.py](./Python/pairs-of-songs-with-total-durations-divisible-by-60.py)| Easy | |
 | 1013|[Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)|[partition-array-into-three-parts-with-equal-sum](./Python/partition-array-into-three-parts-with-equal-sum.py)| Easy | |
 | 1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)|[binary-prefix-divisible-by-5.py](./Python/binary-prefix-divisible-by-5.py)| Easy | |
@@ -97,6 +100,7 @@
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0001|[Two Sum](https://leetcode.com/problems/two-sum/)|[two-sum.py](./Python/two-sum.py)| Easy | |
 | 0217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[contains-duplicate.py](./Python/contains-duplicate.py)| Easy | |
 | 0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[intersection-of-two-arrays.py](./Python/intersection-of-two-arrays.py)| Easy | |
 | 0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[intersection-of-two-arrays-ii.py](./Python/intersection-of-two-arrays-ii.py)| Easy | |
@@ -126,6 +130,7 @@
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[remove-duplicates-from-sorted-array.py](./Python/remove-duplicates-from-sorted-array.py)| Easy | |
 | 0027|[Remove Element](https://leetcode.com/problems/remove-element/)|[remove-element.py](./Python/remove-element.py)| Easy | |
+| 0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[merge-sorted-array.py](./Python/merge-sorted-array.py)| Easy | |
 | 0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[two-sum-ii-input-array-is-sorted.py](./Python/two-sum-ii-input-array-is-sorted.py)| Easy | |
 | 0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[move-zeroes.py](./Python/move-zeroes.py)| Easy | |
 | 0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[intersection-of-two-arrays.py](./Python/intersection-of-two-arrays.py)| Easy | |
