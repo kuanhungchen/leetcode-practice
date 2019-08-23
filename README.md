@@ -38,6 +38,7 @@
 | 0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[two-sum-ii-input-array-is-sorted.py](./Python/two-sum-ii-input-array-is-sorted.py)| Easy | |
 | 0169|[Majority Element](https://leetcode.com/problems/majority-element/)|[majority-element.py](./Python/majority-element.py)| Easy | |
 | 0217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[contains-duplicate.py](./Python/contains-duplicate.py)| Easy | |
+| 0219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[contains-duplicate-ii.py](./Python/contains-duplicate-ii.py)| Easy | |
 | 0268|[Missing Number](https://leetcode.com/problems/missing-number)|[missing-number.py](./Python/missing-number.py)| Easy | |
 | 0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[move-zeroes.py](./Python/move-zeroes.py)| Easy | |
 | 0448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[find-all-numbers-disappeared-in-an-array.py](./Python/find-all-numbers-disappeared-in-an-array.py)| Easy | |
@@ -61,7 +62,9 @@
 | 0888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|[fair-candy-swap.py](./Python/fair-candy-swap.py)| Easy | |
 | 0896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[monotonic-array](./Python/monotonic-array.py)| Easy | |
 | 0905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[sort-array-by-parity.py](./Python/sort-array-by-parity.py)| Easy | |
+| 0914|[X of A Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)|[x-of-a-kind-in-a-deck-of-cards.py](./Python/x-of-a-kind-in-a-deck-of-cards.py)| Easy | |
 | 0922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[sort-array-by-parity-ii.py](./Python/sort-array-by-parity-ii.py)| Easy | |
+| 0941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[valid-mountain-array.py](./Python/valid-mountain-array.py)| Easy | |
 | 0977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[squares-of-a-sorted-array.py](./Python/squares-of-a-sorted-array.py)| Easy | |
 | 0985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)|[sum-of-even-numbers-after-queries.py](./Python/sum-of-even-numbers-after-queries.py)| Easy | |
 | 0989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[add-to-array-form-of-integer.py](./Python/add-to-array-form-of-integer.py)| Easy | |
@@ -94,6 +97,7 @@
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0268|[Missing Number](https://leetcode.com/problems/missing-number)|[missing-number.py](./Python/missing-number.py)| Easy | |
 | 0628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/submissions/)|[maximum-product-of-three-numbers.py](./Python/maximum-product-of-three-numbers.py)| Easy | |
+| 0914|[X of A Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)|[x-of-a-kind-in-a-deck-of-cards.py](./Python/x-of-a-kind-in-a-deck-of-cards.py)| Easy | |
 | 1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[divisor-game.py](./Python/divisor-game.py)| Easy | |
 
 ## Hash Table ##
@@ -102,6 +106,7 @@
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0001|[Two Sum](https://leetcode.com/problems/two-sum/)|[two-sum.py](./Python/two-sum.py)| Easy | |
 | 0217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[contains-duplicate.py](./Python/contains-duplicate.py)| Easy | |
+| 0219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[contains-duplicate-ii.py](./Python/contains-duplicate-ii.py)| Easy | |
 | 0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[intersection-of-two-arrays.py](./Python/intersection-of-two-arrays.py)| Easy | |
 | 0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[intersection-of-two-arrays-ii.py](./Python/intersection-of-two-arrays-ii.py)| Easy | |
 | 1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[find-common-characters.py](./Python/find-common-characters)| Easy | |
