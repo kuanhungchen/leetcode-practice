@@ -8,6 +8,7 @@
 * [Array](#array)
 * [Dynamic Programming](#dynamic-programming)
 * [Math](#math)
+* [String](#string)
 * [Hash Table](#hash-table)
 * [Binary Search](#binary-search)
 * [Greedy](#greedy)
@@ -19,6 +20,7 @@
 ## Notes
 
 * [collections](./notes/collections.md)
+* [str-vs-repr](./notes/str-vs-repr.md)
 
 ## Array
 
@@ -100,6 +102,12 @@
 | 0628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/submissions/)|[maximum-product-of-three-numbers.py](./Python/maximum-product-of-three-numbers.py)| Easy | |
 | 0914|[X of A Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)|[x-of-a-kind-in-a-deck-of-cards.py](./Python/x-of-a-kind-in-a-deck-of-cards.py)| Easy | |
 | 1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[divisor-game.py](./Python/divisor-game.py)| Easy | |
+
+## String
+
+|  #  | Problem           |  Solution       | Difficulty    | Notes | 
+|:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)|[greatest-common-divisor-of-strings.py](./Python/greatest-common-divisor-of-strings.py)| Easy | |
 
 ## Hash Table
 
