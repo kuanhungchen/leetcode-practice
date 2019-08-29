@@ -16,6 +16,7 @@
 * [Sort](#sort)
 * [Bit Manipulation](#bit-manipulation)
 * [Divide and Conquer](#divide-and-conquer)
+* [Geometry](#geometry)
 
 ## Notes
 
@@ -99,8 +100,10 @@
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[sqrtx.py](./Python/sqrtx.py)| Easy | |
 | 0268|[Missing Number](https://leetcode.com/problems/missing-number)|[missing-number.py](./Python/missing-number.py)| Easy | |
 | 0628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/submissions/)|[maximum-product-of-three-numbers.py](./Python/maximum-product-of-three-numbers.py)| Easy | |
+| 0892|[Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)|[surface-area-of-3d-shapes.py](./Python/surface-area-of-3d-shapes.py)| Easy | |
 | 0914|[X of A Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)|[x-of-a-kind-in-a-deck-of-cards.py](./Python/x-of-a-kind-in-a-deck-of-cards.py)| Easy | |
 | 1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[divisor-game.py](./Python/divisor-game.py)| Easy | |
 
@@ -108,6 +111,8 @@
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[repeated-substring-pattern.py](./Python/repeated-substring-pattern.py)| Easy | |
+| 0859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[buddy-strings.py](./Python/buddy-strings.py)| Easy | |
 | 0929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[unique-email-addresses.py](./Python/unique-email-addresses.py)| Easy | |
 | 1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)|[greatest-common-divisor-of-strings.py](./Python/greatest-common-divisor-of-strings.py)| Easy | |
 | 1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[defanging-an-ip-address.py](./Python/defanging-an-ip-address.py)| Easy | |
@@ -130,6 +135,7 @@
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[sqrtx.py](./Python/sqrtx.py)| Easy | |
 | 0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[search-insert-position.py](./Python/search-insert-position.py)| Easy | |
 | 0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[two-sum-ii-input-array-is-sorted.py](./Python/two-sum-ii-input-array-is-sorted.py)| Easy | |
 | 0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[intersection-of-two-arrays.py](./Python/intersection-of-two-arrays.py)| Easy | |
@@ -192,3 +198,9 @@
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[maximum-subarray.py](./Python/maximum-subarray.py)| Easy | |
 | 0169|[Majority Element](https://leetcode.com/problems/majority-element/)|[majority-element.py](./Python/majority-element.py)| Easy | |
+
+## Geometry
+
+|  #  | Problem           |  Solution       | Difficulty    | Notes | 
+|:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0892|[Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)|[surface-area-of-3d-shapes.py](./Python/surface-area-of-3d-shapes.py)| Easy | |
