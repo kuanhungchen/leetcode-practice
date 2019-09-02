@@ -9,7 +9,9 @@
 * [Dynamic Programming](#dynamic-programming)
 * [Math](#math)
 * [String](#string)
+* [Tree](#tree)
 * [Hash Table](#hash-table)
+* [Depth-first Search](#depth-first-search)
 * [Binary Search](#binary-search)
 * [Greedy](#greedy)
 * [Two Pointers](#two-pointers)
@@ -109,6 +111,7 @@
 | 0892|[Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)|[surface-area-of-3d-shapes.py](./Python/surface-area-of-3d-shapes.py)| Easy | |
 | 0914|[X of A Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)|[x-of-a-kind-in-a-deck-of-cards.py](./Python/x-of-a-kind-in-a-deck-of-cards.py)| Easy | |
 | 1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[divisor-game.py](./Python/divisor-game.py)| Easy | |
+| 1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)|[distribute-candies-to-people.py](./Python/distribute-candies-to-people.py)| Easy | |
 
 ## String
 
@@ -117,12 +120,19 @@
 | 0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[valid-palindrome.py](./Python/valid-palindrome.py)| Easy | |
 | 0345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[reverse-vowels-of-a-string.py](./Python/reverse-vowels-of-a-string.py)| Easy | |
 | 0459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[repeated-substring-pattern.py](./Python/repeated-substring-pattern.py)| Easy | |
+| 0848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[shifting-letters.py](./Python/shifting-letters.py)| Medium | |
 | 0859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[buddy-strings.py](./Python/buddy-strings.py)| Easy | |
 | 0925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[long-pressed-name.py](./Python/long-pressed-name.py)| Easy | |
 | 0929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[unique-email-addresses.py](./Python/unique-email-addresses.py)| Easy | |
 | 1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)|[greatest-common-divisor-of-strings.py](./Python/greatest-common-divisor-of-strings.py)| Easy | |
 | 1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[defanging-an-ip-address.py](./Python/defanging-an-ip-address.py)| Easy | |
 | 1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/)|[compare-strings-by-frequency-of-the-smallest-character.py](./Python/compare-strings-by-frequency-of-the-smallest-character.py)| Easy | |
+
+## Tree
+
+|  #  | Problem           |  Solution       | Difficulty    | Notes | 
+|:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0112|[Path Sum](https://leetcode.com/problems/path-sum/)|[path-sum.py](./Python/path-sum.py)| Easy | | 
 
 ## Hash Table
 
@@ -136,6 +146,12 @@
 | 0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[intersection-of-two-arrays-ii.py](./Python/intersection-of-two-arrays-ii.py)| Easy | |
 | 1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[find-common-characters.py](./Python/find-common-characters)| Easy | |
 | 1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)|[find-words-that-can-be-formed-by-characters.py](./Python/find-words-that-can-be-formed-by-characters.py)| Easy | |
+
+## Depth-first Search
+
+|  #  | Problem           |  Solution       | Difficulty    | Notes | 
+|:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0112|[Path Sum](https://leetcode.com/problems/path-sum/)|[path-sum.py](./Python/path-sum.py)| Easy | |
 
 ## Binary Search
 
