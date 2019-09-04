@@ -38,6 +38,7 @@
 | 0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[search-insert-position.py](./Python/search-insert-position.py)| Easy | |
 | 0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[maximum-subarray.py](./Python/maximum-subarray.py)| Easy | |
 | 0066|[Plus One](https://leetcode.com/problems/plus-one/)|[plus-one.py](./Python/plus-one.py)| Easy | |
+| 0075|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[sort-colors.py](./Python/sort-colors.py)| Medium | |
 | 0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[merge-sorted-array.py](./Python/merge-sorted-array.py)| Easy | |
 | 0118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[pascal's-triangle.py](./Python/pascal's-triangle.py)| Easy | |
 | 0119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[pascal's-triangle-ii.py](./Python/pascal's-triangle-ii.py)| Easy | |
@@ -45,11 +46,13 @@
 | 0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[best-time-to-buy-and-sell-stock-ii.py](./Python/best-time-to-buy-and-sell-stock-ii.py)| Easy | |
 | 0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[two-sum-ii-input-array-is-sorted.py](./Python/two-sum-ii-input-array-is-sorted.py)| Easy | |
 | 0169|[Majority Element](https://leetcode.com/problems/majority-element/)|[majority-element.py](./Python/majority-element.py)| Easy | |
+| 0189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[rotate-array.py](./Python/rotate-array.py)| Easy | |
 | 0217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[contains-duplicate.py](./Python/contains-duplicate.py)| Easy | |
 | 0219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[contains-duplicate-ii.py](./Python/contains-duplicate-ii.py)| Easy | |
 | 0228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[summary-ranges.py](./Python/summary-ranges.py)| Medium | |
 | 0268|[Missing Number](https://leetcode.com/problems/missing-number)|[missing-number.py](./Python/missing-number.py)| Easy | |
 | 0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[move-zeroes.py](./Python/move-zeroes.py)| Easy | |
+| 0287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[find-the-duplicate-number.py](./Python/find-the-duplicate-number.py)| Medium | |
 | 0448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[find-all-numbers-disappeared-in-an-array.py](./Python/find-all-numbers-disappeared-in-an-array.py)| Easy | |
 | 0457|[Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)|[circular-array-loop.py](./Python/circular-array-loop.py)| Medium | |
 | 0485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[max-consecutive-ones.py](./Python/max-consecutive-ones.py)| Easy | |
@@ -133,13 +136,16 @@
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[binary-tree-inorder-traversal.py](./Python/binary-tree-inorder-traversal.py) | Medium | |
 | 0112|[Path Sum](https://leetcode.com/problems/path-sum/)|[path-sum.py](./Python/path-sum.py)| Easy | | 
+| 0144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[binary-tree-preorder-traversal.py](./Python/binary-tree-preorder-traversal.py)| Medium | |
 
 ## Hash Table
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0001|[Two Sum](https://leetcode.com/problems/two-sum/)|[two-sum.py](./Python/two-sum.py)| Easy | |
+| 0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[binary-tree-inorder-traversal.py](./Python/binary-tree-inorder-traversal.py) | Medium | |
 | 0217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[contains-duplicate.py](./Python/contains-duplicate.py)| Easy | |
 | 0219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[contains-duplicate-ii.py](./Python/contains-duplicate-ii.py)| Easy | |
 | 0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[valid-anagram.py](./Python/valid-anagram.py)| Easy | |
@@ -161,6 +167,7 @@
 | 0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[sqrtx.py](./Python/sqrtx.py)| Easy | |
 | 0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[search-insert-position.py](./Python/search-insert-position.py)| Easy | |
 | 0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[two-sum-ii-input-array-is-sorted.py](./Python/two-sum-ii-input-array-is-sorted.py)| Easy | |
+| 0287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[find-the-duplicate-number.py](./Python/find-the-duplicate-number.py)| Medium | |
 | 0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[intersection-of-two-arrays.py](./Python/intersection-of-two-arrays.py)| Easy | |
 | 0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[intersection-of-two-arrays-ii.py](./Python/intersection-of-two-arrays-ii.py)| Easy | |
 | 0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[is-subsequence.py](./Python/is-subsequence.py)| Easy | |
@@ -180,12 +187,14 @@
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[remove-duplicates-from-sorted-array.py](./Python/remove-duplicates-from-sorted-array.py)| Easy | |
 | 0027|[Remove Element](https://leetcode.com/problems/remove-element/)|[remove-element.py](./Python/remove-element.py)| Easy | |
+| 0075|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[sort-colors.py](./Python/sort-colors.py)| Medium | |
 | 0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[merge-sorted-array.py](./Python/merge-sorted-array.py)| Easy | |
 | 0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[valid-palindrome.py](./Python/valid-palindrome.py)| Easy | |
 | 0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[linked-list-cycle.py](./Python/linked-list-cycle.py)| Easy | |
 | 0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[two-sum-ii-input-array-is-sorted.py](./Python/two-sum-ii-input-array-is-sorted.py)| Easy | |
 | 0234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[palindrome-linked-list.py](./Python/palindrome-linked-list.py)| Easy | |
 | 0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[move-zeroes.py](./Python/move-zeroes.py)| Easy | |
+| 0287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[find-the-duplicate-number.py](./Python/find-the-duplicate-number.py)| Medium | |
 | 0345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[reverse-vowels-of-a-string.py](./Python/reverse-vowels-of-a-string.py)| Easy | |
 | 0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[intersection-of-two-arrays.py](./Python/intersection-of-two-arrays.py)| Easy | |
 | 0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[intersection-of-two-arrays-ii.py](./Python/intersection-of-two-arrays-ii.py)| Easy | |
@@ -198,6 +207,8 @@
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[binary-tree-inorder-traversal.py](./Python/binary-tree-inorder-traversal.py) | Medium | |
+| 0144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[binary-tree-preorder-traversal.py](./Python/binary-tree-preorder-traversal.py)| Medium | |
 | 0844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[backspace-string-compare.py](./Python/backspace-string-compare.py)| Easy | |
 
 ## Design
@@ -219,6 +230,7 @@
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0075|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[sort-colors.py](./Python/sort-colors.py)| Medium | |
 | 0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[valid-anagram.py](./Python/valid-anagram.py)| Easy | |
 | 0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[intersection-of-two-arrays.py](./Python/intersection-of-two-arrays.py)| Easy | |
 | 0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[intersection-of-two-arrays-ii.py](./Python/intersection-of-two-arrays-ii.py)| Easy | |
