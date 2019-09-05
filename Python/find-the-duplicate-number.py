@@ -8,6 +8,7 @@ class Solution:
 
 class Solution2:
     def findDuplicate(self, nums):
+        # same as Solution
         # O(n), O(n)
         _dict = {}
         for num in nums:
@@ -19,10 +20,27 @@ class Solution2:
 
 class Solution3:
     def findDuplicate(self, nums):
-        # O(nlgn) if quick sort, O(1)
+        # O(nlgn), O(1)
+        # but the array should not be modified
         nums.sort()
         tmp = nums[-1]
         for num in nums:
             if num == tmp:
                 return num
             tmp = num
+
+
+class Solution4:
+    def findDuplicate(self, nums):
+        # Floyd's cycle detection algorithm
+        # O(n), O(1)
+        # not modify the array
+        t, h = nums[0], nums[nums[0]]
+        while t != h:
+            t = nums[t]
+            h = nums[nums[h]]
+        t = 0
+        while t != h:
+            t = nums[t]
+            h = nums[h]
+        return t
