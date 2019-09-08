@@ -97,6 +97,8 @@
 | 1128|[Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)|[number-of-equivalent-domino-pairs.py](./Python/number-of-equivalent-domino-pairs.py)| Easy | [str-vs-repr](./notes/str-vs-repr.md) |
 | 1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)|[find-words-that-can-be-formed-by-characters.py](./Python/find-words-that-can-be-formed-by-characters.py)| Easy | |
 | 1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/)|[compare-strings-by-frequency-of-the-smallest-character.py](./Python/compare-strings-by-frequency-of-the-smallest-character.py)| Easy | |
+| 1184|[Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)|[distance-between-bus-stops.py](./Python/distance-between-bus-stops.py)| Easy | |
+| 1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week/)|[day-of-the-week.py](./Python/day-of-the-week.py)| Easy | |
 
 ## Dynamic Programming
 
@@ -269,6 +271,7 @@
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0169|[Majority Element](https://leetcode.com/problems/majority-element/)|[majority-element.py](./Python/majority-element.py)| Easy | |
 | 0268|[Missing Number](https://leetcode.com/problems/missing-number)|[missing-number.py](./Python/missing-number.py)| Easy | |
+| 0762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[prime-number-of-set-bits-in-binary-representation.py](./Python/prime-number-of-set-bits-in-binary-representation.py)| Easy | |
 
 ## Divide and Conquer
 
