@@ -21,7 +21,9 @@
 * [Graph](#graph)
 * [Sort](#sort)
 * [Bit Manipulation](#bit-manipulation)
+* [Heap](#heap)
 * [Divide and Conquer](#divide-and-conquer)
+* [Recursion](#recursion)
 * [Brainteaser](#brainteaser)
 * [Geometry](#geometry)
 
@@ -131,6 +133,7 @@
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[implement-strstr.py](./Python/implement-strstr.py)| Easy | |
 | 0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[valid-palindrome.py](./Python/valid-palindrome.py)| Easy | |
 | 0344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[reverse-string.py](./Python/reverse-string.py)| Easy | |
 | 0345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[reverse-vowels-of-a-string.py](./Python/reverse-vowels-of-a-string.py)| Easy | |
@@ -202,6 +205,8 @@
 | 0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[best-time-to-buy-and-sell-stock-ii.py](./Python/best-time-to-buy-and-sell-stock-ii.py)| Easy | |
 | 0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[is-subsequence.py](./Python/is-subsequence.py)| Easy | |
 | 0944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|[delete-columns-to-make-sorted.py](./Python/delete-columns-to-make-sorted.py)| Easy | [zip](./notes/zip.md) |
+| 1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[two-city-scheduling.py](./Python/two-city-scheduling.py)| Easy | |
+| 1046|[Last Stong Weight](https://leetcode.com/problems/last-stone-weight/)|[last-stone-weight.py](./Python/last-stone-weight.py)| Easy | |
 
 ## Two Pointers
 
@@ -209,6 +214,7 @@
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[remove-duplicates-from-sorted-array.py](./Python/remove-duplicates-from-sorted-array.py)| Easy | |
 | 0027|[Remove Element](https://leetcode.com/problems/remove-element/)|[remove-element.py](./Python/remove-element.py)| Easy | |
+| 0028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[implement-strstr.py](./Python/implement-strstr.py)| Easy | |
 | 0075|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[sort-colors.py](./Python/sort-colors.py)| Medium | |
 | 0080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[remove-duplicates-from-sorted-array-ii.py](./Python/remove-duplicates-from-sorted-array-ii.py)| Medium | |
 | 0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[merge-sorted-array.py](./Python/merge-sorted-array.py)| Easy | |
@@ -275,6 +281,12 @@
 | 0268|[Missing Number](https://leetcode.com/problems/missing-number)|[missing-number.py](./Python/missing-number.py)| Easy | |
 | 0762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[prime-number-of-set-bits-in-binary-representation.py](./Python/prime-number-of-set-bits-in-binary-representation.py)| Easy | |
 
+## Heap
+
+|  #  | Problem           |  Solution       | Difficulty    | Notes | 
+|:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 1046|[Last Stong Weight](https://leetcode.com/problems/last-stone-weight/)|[last-stone-weight.py](./Python/last-stone-weight.py)| Easy | |
+
 ## Divide and Conquer
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
@@ -284,6 +296,8 @@
 
 ## Recursion
 
+|  #  | Problem           |  Solution       | Difficulty    | Notes | 
+|:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[n-th-tribonacci-number.py](./Python/n-th-tribonacci-number.py)| Easy | |
 
 ## Brainteaser
