@@ -204,7 +204,9 @@
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[best-time-to-buy-and-sell-stock-ii.py](./Python/best-time-to-buy-and-sell-stock-ii.py)| Easy | |
 | 0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[is-subsequence.py](./Python/is-subsequence.py)| Easy | |
+| 0860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[lemonade-change.py](./Python/lemonade-change.py)| Easy | |
 | 0944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|[delete-columns-to-make-sorted.py](./Python/delete-columns-to-make-sorted.py)| Easy | [zip](./notes/zip.md) |
+| 1005|[Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)|[maximize-sum-of-array-after-k-negations.py](./Python/maximize-sum-of-array-after-k-negations.py)| Easy | |
 | 1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[two-city-scheduling.py](./Python/two-city-scheduling.py)| Easy | |
 | 1046|[Last Stong Weight](https://leetcode.com/problems/last-stone-weight/)|[last-stone-weight.py](./Python/last-stone-weight.py)| Easy | |
 
