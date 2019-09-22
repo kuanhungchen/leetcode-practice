@@ -102,6 +102,7 @@
 | 1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/)|[compare-strings-by-frequency-of-the-smallest-character.py](./Python/compare-strings-by-frequency-of-the-smallest-character.py)| Easy | |
 | 1184|[Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)|[distance-between-bus-stops.py](./Python/distance-between-bus-stops.py)| Easy | |
 | 1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week/)|[day-of-the-week.py](./Python/day-of-the-week.py)| Easy | |
+| 1200|[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[minimum-absolute-difference.py](./Python/minimum-absolute-difference.py)| Easy | |
 
 ## Dynamic Programming
 
@@ -121,6 +122,7 @@
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[sqrtx.py](./Python/sqrtx.py)| Easy | |
 | 0268|[Missing Number](https://leetcode.com/problems/missing-number)|[missing-number.py](./Python/missing-number.py)| Easy | |
+| 0367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[valid-perfect-square.py](./Python/valid-perfect-square.py)| Easy | |
 | 0441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[arranging-coins.py](./Python/arranging-coins.py)| Easy | |
 | 0628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/submissions/)|[maximum-product-of-three-numbers.py](./Python/maximum-product-of-three-numbers.py)| Easy | |
 | 0892|[Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)|[surface-area-of-3d-shapes.py](./Python/surface-area-of-3d-shapes.py)| Easy | |
@@ -128,6 +130,7 @@
 | 0949|[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)|[largest-time-for-given-digits.py](./Python/largest-time-for-given-digits.py)| Easy | |
 | 1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[divisor-game.py](./Python/divisor-game.py)| Easy | |
 | 1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)|[distribute-candies-to-people.py](./Python/distribute-candies-to-people.py)| Easy | |
+| 1201|[Ugly Number III](https://leetcode.com/problems/ugly-number-iii/)|[ugly-number-iii.py](./Python/ugly-number-iii.py)| Medium | |
 
 ## String
 
@@ -192,11 +195,13 @@
 | 0287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[find-the-duplicate-number.py](./Python/find-the-duplicate-number.py)| Medium | |
 | 0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[intersection-of-two-arrays.py](./Python/intersection-of-two-arrays.py)| Easy | |
 | 0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[intersection-of-two-arrays-ii.py](./Python/intersection-of-two-arrays-ii.py)| Easy | |
+| 0367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[valid-perfect-square.py](./Python/valid-perfect-square.py)| Easy | |
 | 0374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[guess-number-higher-or-lower.py](./Python/guess-number-higher-or-lower.py)| Easy | |
 | 0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[is-subsequence.py](./Python/is-subsequence.py)| Easy | |
 | 0441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[arranging-coins.py](./Python/arranging-coins.py)| Easy | |
 | 0704|[Binary Search](https://leetcode.com/problems/binary-search/)|[binary-search.py](./Python/binary-search.py)| Easy | |
 | 0744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[find-smallest-letter-greater-than-target.py](./Python/find-smallest-letter-greater-than-target.py)| Easy | |
+| 1201|[Ugly Number III](https://leetcode.com/problems/ugly-number-iii/)|[ugly-number-iii.py](./Python/ugly-number-iii.py)| Medium | |
 
 ## Greedy
 
