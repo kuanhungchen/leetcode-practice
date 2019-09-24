@@ -42,6 +42,7 @@
 | 0034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[find-first-and-last-position-of-element-in-sorted-array.py](./Python/find-first-and-last-position-of-element-in-sorted-array.py)| Medium | |
 | 0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[search-insert-position.py](./Python/search-insert-position.py)| Easy | |
 | 0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[maximum-subarray.py](./Python/maximum-subarray.py)| Easy | |
+| 0056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[merge-intervals.py](./Python/merge-intervals.py)| Medium | |
 | 0066|[Plus One](https://leetcode.com/problems/plus-one/)|[plus-one.py](./Python/plus-one.py)| Easy | |
 | 0075|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[sort-colors.py](./Python/sort-colors.py)| Medium | |
 | 0080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[remove-duplicates-from-sorted-array-ii.py](./Python/remove-duplicates-from-sorted-array-ii.py)| Medium | |
@@ -64,6 +65,7 @@
 | 0457|[Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)|[circular-array-loop.py](./Python/circular-array-loop.py)| Medium | |
 | 0485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[max-consecutive-ones.py](./Python/max-consecutive-ones.py)| Easy | |
 | 0509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[fibonacci-number.py](./Python/fibonacci-number.py)| Easy | |
+| 0532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[k-diff-pairs-in-an-array.py](./Python/k-diff-pairs-in-an-array.py)| Easy | |
 | 0561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[array-partition-i.py](./Python/array-partition-i.py)| Easy | |
 | 0566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[reshape-the-matrix.py](./Python/reshape-the-matrix.py)| Easy | |
 | 0628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/submissions/)|[maximum-product-of-three-numbers.py](./Python/maximum-product-of-three-numbers.py)| Easy | |
@@ -236,6 +238,7 @@
 | 0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[intersection-of-two-arrays.py](./Python/intersection-of-two-arrays.py)| Easy | |
 | 0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[intersection-of-two-arrays-ii.py](./Python/intersection-of-two-arrays-ii.py)| Easy | |
 | 0457|[Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)|[circular-array-loop.py](./Python/circular-array-loop.py)| Medium | |
+| 0532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[k-diff-pairs-in-an-array.py](./Python/k-diff-pairs-in-an-array.py)| Easy | |
 | 0844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[backspace-string-compare.py](./Python/backspace-string-compare.py)| Easy | |
 | 0925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[long-pressed-name.py](./Python/long-pressed-name.py)| Easy | |
 | 0977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[squares-of-a-sorted-array.py](./Python/squares-of-a-sorted-array.py)| Easy | |
@@ -273,6 +276,7 @@
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[merge-intervals.py](./Python/merge-intervals.py)| Medium | |
 | 0075|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[sort-colors.py](./Python/sort-colors.py)| Medium | |
 | 0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[valid-anagram.py](./Python/valid-anagram.py)| Easy | |
 | 0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[intersection-of-two-arrays.py](./Python/intersection-of-two-arrays.py)| Easy | |
