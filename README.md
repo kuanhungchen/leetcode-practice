@@ -105,6 +105,7 @@
 | 1184|[Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)|[distance-between-bus-stops.py](./Python/distance-between-bus-stops.py)| Easy | |
 | 1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week/)|[day-of-the-week.py](./Python/day-of-the-week.py)| Easy | |
 | 1200|[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[minimum-absolute-difference.py](./Python/minimum-absolute-difference.py)| Easy | |
+| 1208|[Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)|[get-equal-substrings-within-budget.py](./Python/get-equal-substrings-within-budget.py)| Medium | |
 
 ## Dynamic Programming
 
@@ -175,6 +176,7 @@
 | 0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[intersection-of-two-arrays-ii.py](./Python/intersection-of-two-arrays-ii.py)| Easy | |
 | 1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[find-common-characters.py](./Python/find-common-characters)| Easy | |
 | 1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)|[find-words-that-can-be-formed-by-characters.py](./Python/find-words-that-can-be-formed-by-characters.py)| Easy | |
+| 1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[unique-number-of-occurrences.py](./Python/unique-number-of-occurrences.py)| Easy | |
 
 ## Depth-first Search
 
@@ -297,6 +299,12 @@
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 1046|[Last Stong Weight](https://leetcode.com/problems/last-stone-weight/)|[last-stone-weight.py](./Python/last-stone-weight.py)| Easy | |
+
+## Sliding Window
+
+|  #  | Problem           |  Solution       | Difficulty    | Notes | 
+|:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 1208|[Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)|[get-equal-substrings-within-budget.py](./Python/get-equal-substrings-within-budget.py)| Medium | |
 
 ## Divide and Conquer
 
