@@ -116,6 +116,7 @@
 | 0198|[House Robber](https://leetcode.com/problems/house-robber/)|[house-robber.py](./Python/house-robber.py)| Easy | |
 | 0303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[range-sum-query-immutable.py](./Python/range-sum-query-immutable.py)| Easy | |
 | 0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[is-subsequence.py](./Python/is-subsequence.py)| Easy | |
+| 0523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[continuous-subarray-sum.py](./Python/continuous-subarray-sum.py)| Medium | |
 | 0746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[min-cost-climbing-stairs.py](./Python/min-cost-climbing-stairs.py)| Easy | |
 | 1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[divisor-game.py](./Python/divisor-game.py)| Easy | |
 
@@ -127,6 +128,7 @@
 | 0268|[Missing Number](https://leetcode.com/problems/missing-number)|[missing-number.py](./Python/missing-number.py)| Easy | |
 | 0367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[valid-perfect-square.py](./Python/valid-perfect-square.py)| Easy | |
 | 0441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[arranging-coins.py](./Python/arranging-coins.py)| Easy | |
+| 0523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[continuous-subarray-sum.py](./Python/continuous-subarray-sum.py)| Medium | |
 | 0628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/submissions/)|[maximum-product-of-three-numbers.py](./Python/maximum-product-of-three-numbers.py)| Easy | |
 | 0892|[Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)|[surface-area-of-3d-shapes.py](./Python/surface-area-of-3d-shapes.py)| Easy | |
 | 0914|[X of A Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)|[x-of-a-kind-in-a-deck-of-cards.py](./Python/x-of-a-kind-in-a-deck-of-cards.py)| Easy | |
@@ -145,6 +147,7 @@
 | 0345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[reverse-vowels-of-a-string.py](./Python/reverse-vowels-of-a-string.py)| Easy | |
 | 0383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[ransom-note.py](./Python/ransom-note.py)| Easy | |
 | 0459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[repeated-substring-pattern.py](./Python/repeated-substring-pattern.py)| Easy | |
+| 0680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[valid-palindrome-ii.py](./Python/valid-palindrome-ii.py)| Easy | |
 | 0848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[shifting-letters.py](./Python/shifting-letters.py)| Medium | |
 | 0859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[buddy-strings.py](./Python/buddy-strings.py)| Easy | |
 | 0925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[long-pressed-name.py](./Python/long-pressed-name.py)| Easy | |
