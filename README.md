@@ -131,6 +131,8 @@
 | 0523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[continuous-subarray-sum.py](./Python/continuous-subarray-sum.py)| Medium | |
 | 0628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/submissions/)|[maximum-product-of-three-numbers.py](./Python/maximum-product-of-three-numbers.py)| Easy | |
 | 0892|[Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)|[surface-area-of-3d-shapes.py](./Python/surface-area-of-3d-shapes.py)| Easy | |
+| 0908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[smallest-range-i.py](./Python/smallest-range-i.py)| Easy | |
+| 0910|[Smallest Range II](https://leetcode.com/problems/smallest-range-ii/)|[smallest-range-ii.py](./Python/smallest-range-ii.py)| Medium | |
 | 0914|[X of A Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)|[x-of-a-kind-in-a-deck-of-cards.py](./Python/x-of-a-kind-in-a-deck-of-cards.py)| Easy | |
 | 0949|[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)|[largest-time-for-given-digits.py](./Python/largest-time-for-given-digits.py)| Easy | |
 | 1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[divisor-game.py](./Python/divisor-game.py)| Easy | |
@@ -220,6 +222,7 @@
 | 0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[best-time-to-buy-and-sell-stock-ii.py](./Python/best-time-to-buy-and-sell-stock-ii.py)| Easy | |
 | 0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[is-subsequence.py](./Python/is-subsequence.py)| Easy | |
 | 0860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[lemonade-change.py](./Python/lemonade-change.py)| Easy | |
+| 0910|[Smallest Range II](https://leetcode.com/problems/smallest-range-ii/)|[smallest-range-ii.py](./Python/smallest-range-ii.py)| Medium | |
 | 0944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|[delete-columns-to-make-sorted.py](./Python/delete-columns-to-make-sorted.py)| Easy | [zip](./notes/zip.md) |
 | 1005|[Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)|[maximize-sum-of-array-after-k-negations.py](./Python/maximize-sum-of-array-after-k-negations.py)| Easy | |
 | 1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[two-city-scheduling.py](./Python/two-city-scheduling.py)| Easy | |
