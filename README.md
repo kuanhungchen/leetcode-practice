@@ -117,6 +117,7 @@
 | 0303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[range-sum-query-immutable.py](./Python/range-sum-query-immutable.py)| Easy | |
 | 0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[is-subsequence.py](./Python/is-subsequence.py)| Easy | |
 | 0523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[continuous-subarray-sum.py](./Python/continuous-subarray-sum.py)| Medium | |
+| 0638|[Shopping Offers](https://leetcode.com/problems/shopping-offers/)|[shopping-offers.py](./Python/shopping-offers.py)| Medium | |
 | 0746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[min-cost-climbing-stairs.py](./Python/min-cost-climbing-stairs.py)| Easy | |
 | 1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[divisor-game.py](./Python/divisor-game.py)| Easy | |
 
@@ -130,6 +131,7 @@
 | 0441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[arranging-coins.py](./Python/arranging-coins.py)| Easy | |
 | 0523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[continuous-subarray-sum.py](./Python/continuous-subarray-sum.py)| Medium | |
 | 0628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/submissions/)|[maximum-product-of-three-numbers.py](./Python/maximum-product-of-three-numbers.py)| Easy | |
+| 0640|[Solve the Equation](https://leetcode.com/problems/solve-the-equation/)|[solve-the-equation.py](./Python/solve-the-equation.py)| Medium | |
 | 0892|[Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)|[surface-area-of-3d-shapes.py](./Python/surface-area-of-3d-shapes.py)| Easy | |
 | 0908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[smallest-range-i.py](./Python/smallest-range-i.py)| Easy | |
 | 0910|[Smallest Range II](https://leetcode.com/problems/smallest-range-ii/)|[smallest-range-ii.py](./Python/smallest-range-ii.py)| Medium | |
@@ -167,6 +169,7 @@
 | 0144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[binary-tree-preorder-traversal.py](./Python/binary-tree-preorder-traversal.py)| Medium | |
 | 0145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[binary-tree-postorder-traversal.py](./Python/binary-tree-postorder-traversal.py)| Hard | |
 | 0530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/submissions/)|[minimum-absolute-difference-in-bst.py](./Python/minimum-absolute-difference-in-bst.py)| Easy | |
+| 0637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[average-of-levels-in-binary-tree.py](./Python/average-of-levels-in-binary-tree.py)| Easy | |
 | 0872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[leaf-similar-trees.py](./Python/leaf-similar-trees.py)| Easy | |
 | 0897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[increasing-order-search-tree.py](./Python/increasing-order-search-tree.py)| Easy | |
 | 0958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[check-completeness-of-a-binary-tree.py](./Python/check-completeness-of-a-binary-tree.py)| Medium | |
@@ -191,6 +194,7 @@
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0112|[Path Sum](https://leetcode.com/problems/path-sum/)|[path-sum.py](./Python/path-sum.py)| Easy | |
+| 0638|[Shopping Offers](https://leetcode.com/problems/shopping-offers/)|[shopping-offers.py](./Python/shopping-offers.py)| Medium | |
 | 0872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[leaf-similar-trees.py](./Python/leaf-similar-trees.py)| Easy | |
 | 0897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[increasing-order-search-tree.py](./Python/increasing-order-search-tree.py)| Easy | |
 
