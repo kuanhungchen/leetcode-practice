@@ -85,6 +85,7 @@
 | 0896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[monotonic-array](./Python/monotonic-array.py)| Easy | |
 | 0905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[sort-array-by-parity.py](./Python/sort-array-by-parity.py)| Easy | |
 | 0914|[X of A Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)|[x-of-a-kind-in-a-deck-of-cards.py](./Python/x-of-a-kind-in-a-deck-of-cards.py)| Easy | |
+| 0915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)|[partition-array-into-disjoint-intervals.py](./Python/partition-array-into-disjoint-intervals.py)| Medium | |
 | 0922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[sort-array-by-parity-ii.py](./Python/sort-array-by-parity-ii.py)| Easy | |
 | 0926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[flip-string-to-monotone-increasing.py](./Python/flip-string-to-monotone-increasing.py)| Medium | |
 | 0941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[valid-mountain-array.py](./Python/valid-mountain-array.py)| Easy | |
@@ -154,6 +155,7 @@
 | 0680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[valid-palindrome-ii.py](./Python/valid-palindrome-ii.py)| Easy | |
 | 0848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[shifting-letters.py](./Python/shifting-letters.py)| Medium | |
 | 0859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[buddy-strings.py](./Python/buddy-strings.py)| Easy | |
+| 0916|[Word Subsets](https://leetcode.com/problems/word-subsets/)|[word-subsets.py](./Python/word-subsets.py)| Medium | |
 | 0925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[long-pressed-name.py](./Python/long-pressed-name.py)| Easy | |
 | 0929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[unique-email-addresses.py](./Python/unique-email-addresses.py)| Easy | |
 | 1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)|[greatest-common-divisor-of-strings.py](./Python/greatest-common-divisor-of-strings.py)| Easy | |
