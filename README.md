@@ -16,6 +16,7 @@
 * [Greedy](#greedy)
 * [Two Pointers](#two-pointers)
 * [Stack](#stack)
+* [Backtracking](#backtracking)
 * [Design](#design)
 * [Linked List](#linked-list)
 * [Graph](#graph)
@@ -24,6 +25,7 @@
 * [Heap](#heap)
 * [Divide and Conquer](#divide-and-conquer)
 * [Recursion](#recursion)
+* [Ordered Map](#ordered-map)
 * [Brainteaser](#brainteaser)
 * [Geometry](#geometry)
 
@@ -257,6 +259,7 @@
 | 0457|[Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)|[circular-array-loop.py](./Python/circular-array-loop.py)| Medium | |
 | 0532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[k-diff-pairs-in-an-array.py](./Python/k-diff-pairs-in-an-array.py)| Easy | |
 | 0844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[backspace-string-compare.py](./Python/backspace-string-compare.py)| Easy | |
+| 0845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)|[longest-mountain-in-array.py](./Python/longest-mountain-in-array.py)| Medium | |
 | 0925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[long-pressed-name.py](./Python/long-pressed-name.py)| Easy | |
 | 0977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[squares-of-a-sorted-array.py](./Python/squares-of-a-sorted-array.py)| Easy | |
 
@@ -268,6 +271,12 @@
 | 0144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[binary-tree-preorder-traversal.py](./Python/binary-tree-preorder-traversal.py)| Medium | |
 | 0145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[binary-tree-postorder-traversal.py](./Python/binary-tree-postorder-traversal.py)| Hard | |
 | 0844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[backspace-string-compare.py](./Python/backspace-string-compare.py)| Easy | |
+
+## Backtracking
+
+|  #  | Problem           |  Solution       | Difficulty    | Notes | 
+|:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[letter-case-permutation.py](./Python/letter-case-permutation.py)| Easy | |
 
 ## Design
 
@@ -309,6 +318,7 @@
 | 0169|[Majority Element](https://leetcode.com/problems/majority-element/)|[majority-element.py](./Python/majority-element.py)| Easy | |
 | 0268|[Missing Number](https://leetcode.com/problems/missing-number)|[missing-number.py](./Python/missing-number.py)| Easy | |
 | 0762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[prime-number-of-set-bits-in-binary-representation.py](./Python/prime-number-of-set-bits-in-binary-representation.py)| Easy | |
+| 0784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[letter-case-permutation.py](./Python/letter-case-permutation.py)| Easy | |
 
 ## Heap
 
@@ -334,6 +344,12 @@
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[n-th-tribonacci-number.py](./Python/n-th-tribonacci-number.py)| Easy | |
+
+## Ordered Map
+
+|  #  | Problem           |  Solution       | Difficulty    | Notes | 
+|:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/)|[hand-of-straights.py](./Python/hand-of-straights.py)| Medium | |
 
 ## Brainteaser
 
