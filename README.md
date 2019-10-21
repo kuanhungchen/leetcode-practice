@@ -111,6 +111,8 @@
 | 1208|[Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)|[get-equal-substrings-within-budget.py](./Python/get-equal-substrings-within-budget.py)| Medium | |
 | 1213|[Intersection of Three Sorted Arrays](https://leetcode.com/contest/biweekly-contest-10/problems/intersection-of-three-sorted-arrays/)|[intersection-of-three-sorted-arrays.py](./Python/intersection-of-three-sorted-arrays.py)| Easy | not released yet |
 | 1217|[Play with Chips](https://leetcode.com/problems/play-with-chips/)|[play-with-chips.py](./Python/play-with-chips.py)| Easy | |
+| 1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[check-if-it-is-a-straight-line.py](./Python/check-if-it-is-a-straight-line.py)| Easy | |
+| 1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)|[remove-sub-folders-from-the-filesystem.py](./Python/remove-sub-folders-from-the-filesystem.py)| Medium | |
 
 ## Dynamic Programming
 
@@ -148,6 +150,7 @@
 | 1201|[Ugly Number III](https://leetcode.com/problems/ugly-number-iii/)|[ugly-number-iii.py](./Python/ugly-number-iii.py)| Medium | |
 | 1217|[Play with Chips](https://leetcode.com/problems/play-with-chips/)|[play-with-chips.py](./Python/play-with-chips.py)| Easy | |
 | 1218|[Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)|[longest-arithmetic-subsequence-of-given-difference.py](./Python/longest-arithmetic-subsequence-of-given-difference.py)| Medium | |
+| 1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[check-if-it-is-a-straight-line.py](./Python/check-if-it-is-a-straight-line.py)| Easy | |
 
 ## String
 
@@ -160,6 +163,7 @@
 | 0383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[ransom-note.py](./Python/ransom-note.py)| Easy | |
 | 0459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[repeated-substring-pattern.py](./Python/repeated-substring-pattern.py)| Easy | |
 | 0680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[valid-palindrome-ii.py](./Python/valid-palindrome-ii.py)| Easy | |
+| 0824|[Goat Latin](https://leetcode.com/problems/goat-latin/)|[goat-latin.py](./Python/goat-latin.py)| Easy | |
 | 0848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[shifting-letters.py](./Python/shifting-letters.py)| Medium | |
 | 0859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[buddy-strings.py](./Python/buddy-strings.py)| Easy | |
 | 0916|[Word Subsets](https://leetcode.com/problems/word-subsets/)|[word-subsets.py](./Python/word-subsets.py)| Medium | |
@@ -168,6 +172,8 @@
 | 1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)|[greatest-common-divisor-of-strings.py](./Python/greatest-common-divisor-of-strings.py)| Easy | |
 | 1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[defanging-an-ip-address.py](./Python/defanging-an-ip-address.py)| Easy | |
 | 1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/)|[compare-strings-by-frequency-of-the-smallest-character.py](./Python/compare-strings-by-frequency-of-the-smallest-character.py)| Easy | |
+| 1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)|[remove-sub-folders-from-the-filesystem.py](./Python/remove-sub-folders-from-the-filesystem.py)| Medium | |
+| 1234|[Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/)|[replace-the-substring-for-balanced-string.py](./Python/replace-the-substring-for-balanced-string.py)| Medium | |
 
 ## Tree
 
@@ -271,6 +277,7 @@
 | 0845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)|[longest-mountain-in-array.py](./Python/longest-mountain-in-array.py)| Medium | |
 | 0925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[long-pressed-name.py](./Python/long-pressed-name.py)| Easy | |
 | 0977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[squares-of-a-sorted-array.py](./Python/squares-of-a-sorted-array.py)| Easy | |
+| 1234|[Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/)|[replace-the-substring-for-balanced-string.py](./Python/replace-the-substring-for-balanced-string.py)| Medium | |
 
 ## Stack
 
@@ -372,3 +379,4 @@
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0892|[Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)|[surface-area-of-3d-shapes.py](./Python/surface-area-of-3d-shapes.py)| Easy | |
+| 1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[check-if-it-is-a-straight-line.py](./Python/check-if-it-is-a-straight-line.py)| Easy | |

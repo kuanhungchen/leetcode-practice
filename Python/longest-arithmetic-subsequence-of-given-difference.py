@@ -6,7 +6,7 @@ class Solution:
             ans = c.most_common(1)
             return ans[0][1]
 
-        candidates = {arr[0]:1}
+        candidates = {arr[0]: 1}
         for i in range(1, len(arr)):
             if arr[i] - difference in candidates:
                 tmp = candidates[arr[i]-difference]
