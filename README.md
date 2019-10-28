@@ -63,6 +63,7 @@
 | 0268|[Missing Number](https://leetcode.com/problems/missing-number)|[missing-number.py](./Python/missing-number.py)| Easy | |
 | 0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[move-zeroes.py](./Python/move-zeroes.py)| Easy | |
 | 0287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[find-the-duplicate-number.py](./Python/find-the-duplicate-number.py)| Medium | |
+| 0414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[third-maximum-number.py](./Python/third-maximum-number.py)| Easy | | 
 | 0448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[find-all-numbers-disappeared-in-an-array.py](./Python/find-all-numbers-disappeared-in-an-array.py)| Easy | |
 | 0457|[Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)|[circular-array-loop.py](./Python/circular-array-loop.py)| Medium | |
 | 0485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[max-consecutive-ones.py](./Python/max-consecutive-ones.py)| Easy | |
@@ -136,6 +137,7 @@
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[sqrtx.py](./Python/sqrtx.py)| Easy | |
 | 0166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[fraction-to-recurring-decimal](./Python/fraction-to-recurring-decimal.py)| Medium | |
+| 0223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)|[rectangle-area.py](./Python/rectangle-area.py)| Medium | |
 | 0268|[Missing Number](https://leetcode.com/problems/missing-number)|[missing-number.py](./Python/missing-number.py)| Easy | |
 | 0367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[valid-perfect-square.py](./Python/valid-perfect-square.py)| Easy | |
 | 0441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[arranging-coins.py](./Python/arranging-coins.py)| Easy | |
@@ -159,12 +161,14 @@
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[implement-strstr.py](./Python/implement-strstr.py)| Easy | |
+| 0093|[Restore IP Address](https://leetcode.com/problems/restore-ip-addresses/)|[restore-ip-address.py](./Python/restore-ip-address.py)| Medium | |
 | 0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[valid-palindrome.py](./Python/valid-palindrome.py)| Easy | |
 | 0344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[reverse-string.py](./Python/reverse-string.py)| Easy | |
 | 0345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[reverse-vowels-of-a-string.py](./Python/reverse-vowels-of-a-string.py)| Easy | |
 | 0383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[ransom-note.py](./Python/ransom-note.py)| Easy | |
 | 0459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[repeated-substring-pattern.py](./Python/repeated-substring-pattern.py)| Easy | |
 | 0680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[valid-palindrome-ii.py](./Python/valid-palindrome-ii.py)| Easy | |
+| 0709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[to-lower-case.py](./Python/to-lower-case.py)| Easy | |
 | 0824|[Goat Latin](https://leetcode.com/problems/goat-latin/)|[goat-latin.py](./Python/goat-latin.py)| Easy | |
 | 0848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[shifting-letters.py](./Python/shifting-letters.py)| Medium | |
 | 0859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[buddy-strings.py](./Python/buddy-strings.py)| Easy | |
@@ -205,8 +209,10 @@
 | 0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[valid-anagram.py](./Python/valid-anagram.py)| Easy | |
 | 0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[intersection-of-two-arrays.py](./Python/intersection-of-two-arrays.py)| Easy | |
 | 0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[intersection-of-two-arrays-ii.py](./Python/intersection-of-two-arrays-ii.py)| Easy | |
+| 0447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)|[number-of-boomerangs.py](./Python/number-of-boomerangs.py)| Easy | |
 | 1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[find-common-characters.py](./Python/find-common-characters)| Easy | |
 | 1072|[Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/)|[flip-columns-for-maximum-number-of-equal-rows.py](./Python/flip-columns-for-maximum-number-of-equal-rows.py)| Medium | |
+| 1090|[Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/)|[largest-values-from-labels.py](./Python/largest-values-from-labels.py)| Medium | |
 | 1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)|[find-words-that-can-be-formed-by-characters.py](./Python/find-words-that-can-be-formed-by-characters.py)| Easy | |
 | 1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[maximum-number-of-balloons.py](./Python/maximum-number-of-balloons.py)| Easy | |
 | 1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[unique-number-of-occurrences.py](./Python/unique-number-of-occurrences.py)| Easy | |
@@ -255,6 +261,7 @@
 | 1005|[Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)|[maximize-sum-of-array-after-k-negations.py](./Python/maximize-sum-of-array-after-k-negations.py)| Easy | |
 | 1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[two-city-scheduling.py](./Python/two-city-scheduling.py)| Easy | |
 | 1046|[Last Stong Weight](https://leetcode.com/problems/last-stone-weight/)|[last-stone-weight.py](./Python/last-stone-weight.py)| Easy | |
+| 1090|[Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/)|[largest-values-from-labels.py](./Python/largest-values-from-labels.py)| Medium | |
 | 1217|[Play with Chips](https://leetcode.com/problems/play-with-chips/)|[play-with-chips.py](./Python/play-with-chips.py)| Easy | |
 
 ## Two Pointers
@@ -300,6 +307,7 @@
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0093|[Restore IP Address](https://leetcode.com/problems/restore-ip-addresses/)|[restore-ip-address.py](./Python/restore-ip-address.py)| Medium | |
 | 0784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[letter-case-permutation.py](./Python/letter-case-permutation.py)| Easy | |
 
 ## Design
@@ -314,6 +322,7 @@
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0082|[Remove-Duplicates-from-Sorted-List-II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[remove-duplicates-from-sorted-list-ii.py](./Python/remove-duplicates-from-sorted-list-ii.py)| Medium | |
 | 0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[linked-list-cycle.py](./Python/linked-list-cycle.py)| Easy | |
+| 0203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[remove-linked-list-elements.py](./Python/remove-linked-list-elements.py)| Easy | |
 | 0234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[palindrome-linked-list.py](./Python/palindrome-linked-list.py)| Easy | |
 | 0707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[design-linked-list.py](./Python/design-linked-list.py)| Easy | |
 
@@ -387,3 +396,9 @@
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0892|[Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)|[surface-area-of-3d-shapes.py](./Python/surface-area-of-3d-shapes.py)| Easy | |
 | 1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[check-if-it-is-a-straight-line.py](./Python/check-if-it-is-a-straight-line.py)| Easy | |
+
+## No Category
+
+|  #  | Problem           |  Solution       | Difficulty    | Notes | 
+|:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[fizz-buzz.py](./Python/fizz-buzz.py)| Easy | |
