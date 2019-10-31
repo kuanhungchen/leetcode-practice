@@ -112,6 +112,7 @@
 | 1208|[Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)|[get-equal-substrings-within-budget.py](./Python/get-equal-substrings-within-budget.py)| Medium | |
 | 1213|[Intersection of Three Sorted Arrays](https://leetcode.com/contest/biweekly-contest-10/problems/intersection-of-three-sorted-arrays/)|[intersection-of-three-sorted-arrays.py](./Python/intersection-of-three-sorted-arrays.py)| Easy | not released yet |
 | 1217|[Play with Chips](https://leetcode.com/problems/play-with-chips/)|[play-with-chips.py](./Python/play-with-chips.py)| Easy | |
+| 1222|[Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/)|[queens-that-can-attack-the-king.py](./Python/queens-that-can-attack-the-king.py)| Medium | |
 | 1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[check-if-it-is-a-straight-line.py](./Python/check-if-it-is-a-straight-line.py)| Easy | |
 | 1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)|[remove-sub-folders-from-the-filesystem.py](./Python/remove-sub-folders-from-the-filesystem.py)| Medium | |
 
@@ -151,6 +152,7 @@
 | 0949|[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)|[largest-time-for-given-digits.py](./Python/largest-time-for-given-digits.py)| Easy | |
 | 1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[divisor-game.py](./Python/divisor-game.py)| Easy | |
 | 1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)|[distribute-candies-to-people.py](./Python/distribute-candies-to-people.py)| Easy | |
+| 1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/)|[day-of-the-year.py](./Python/day-of-the-year.py)| Easy | |
 | 1201|[Ugly Number III](https://leetcode.com/problems/ugly-number-iii/)|[ugly-number-iii.py](./Python/ugly-number-iii.py)| Medium | |
 | 1217|[Play with Chips](https://leetcode.com/problems/play-with-chips/)|[play-with-chips.py](./Python/play-with-chips.py)| Easy | |
 | 1218|[Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)|[longest-arithmetic-subsequence-of-given-difference.py](./Python/longest-arithmetic-subsequence-of-given-difference.py)| Medium | |
@@ -187,9 +189,11 @@
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[binary-tree-inorder-traversal.py](./Python/binary-tree-inorder-traversal.py) | Medium | |
+| 0111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[minimum-depth-of-binary-tree.py](./Python/minimum-depth-of-binary-tree.py)| Easy | |
 | 0112|[Path Sum](https://leetcode.com/problems/path-sum/)|[path-sum.py](./Python/path-sum.py)| Easy | | 
 | 0144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[binary-tree-preorder-traversal.py](./Python/binary-tree-preorder-traversal.py)| Medium | |
 | 0145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[binary-tree-postorder-traversal.py](./Python/binary-tree-postorder-traversal.py)| Hard | |
+| 0235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[lowest-common-ancestor-of-a-binary-search-tree.py](./Python/lowest-common-ancestor-of-a-binary-search-tree.py)| Easy | |
 | 0530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/submissions/)|[minimum-absolute-difference-in-bst.py](./Python/minimum-absolute-difference-in-bst.py)| Easy | |
 | 0637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[average-of-levels-in-binary-tree.py](./Python/average-of-levels-in-binary-tree.py)| Easy | |
 | 0872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[leaf-similar-trees.py](./Python/leaf-similar-trees.py)| Easy | |
@@ -203,6 +207,7 @@
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0001|[Two Sum](https://leetcode.com/problems/two-sum/)|[two-sum.py](./Python/two-sum.py)| Easy | |
 | 0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[binary-tree-inorder-traversal.py](./Python/binary-tree-inorder-traversal.py) | Medium | |
+| 0136|[Single Number](https://leetcode.com/problems/single-number/)|[single-number.py](./Python/single-number.py) | Easy | |
 | 0166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[fraction-to-recurring-decimal](./Python/fraction-to-recurring-decimal.py)| Medium | |
 | 0217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[contains-duplicate.py](./Python/contains-duplicate.py)| Easy | |
 | 0219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[contains-duplicate-ii.py](./Python/contains-duplicate-ii.py)| Easy | |
@@ -221,10 +226,12 @@
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[minimum-depth-of-binary-tree.py](./Python/minimum-depth-of-binary-tree.py)| Easy | |
 | 0112|[Path Sum](https://leetcode.com/problems/path-sum/)|[path-sum.py](./Python/path-sum.py)| Easy | |
 | 0638|[Shopping Offers](https://leetcode.com/problems/shopping-offers/)|[shopping-offers.py](./Python/shopping-offers.py)| Medium | |
 | 0872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[leaf-similar-trees.py](./Python/leaf-similar-trees.py)| Easy | |
 | 0897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[increasing-order-search-tree.py](./Python/increasing-order-search-tree.py)| Easy | |
+| 1020|[Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)|[number-of-enclaves.py](./Python/number-of-enclaves.py)| Medium | |
 
 ## Binary Search
 
@@ -292,6 +299,12 @@
 | 0977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[squares-of-a-sorted-array.py](./Python/squares-of-a-sorted-array.py)| Easy | |
 | 1234|[Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/)|[replace-the-substring-for-balanced-string.py](./Python/replace-the-substring-for-balanced-string.py)| Medium | |
 
+## Breadth-first Search
+
+|  #  | Problem           |  Solution       | Difficulty    | Notes | 
+|:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[minimum-depth-of-binary-tree.py](./Python/minimum-depth-of-binary-tree.py)| Easy | |
+
 ## Stack
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
@@ -302,6 +315,7 @@
 | 0844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[backspace-string-compare.py](./Python/backspace-string-compare.py)| Easy | |
 | 0402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[remove-k-digits.py](./Python/remove-k-digits.py)| Medium | |
 | 1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|[reverse-substrings-between-each-pair-of-parentheses.py](./Python/reverse-substrings-between-each-pair-of-parentheses.py)| Medium | |
+| 1209|[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[remove-all-adjacent-duplicates-in-string-ii.py](./Python/remove-all-adjacent-duplicates-in-string-ii.py)| Medium | |
 
 ## Backtracking
 
@@ -348,6 +362,7 @@
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0136|[Single Number](https://leetcode.com/problems/single-number/)|[single-number.py](./Python/single-number.py) | Easy | |
 | 0169|[Majority Element](https://leetcode.com/problems/majority-element/)|[majority-element.py](./Python/majority-element.py)| Easy | |
 | 0268|[Missing Number](https://leetcode.com/problems/missing-number)|[missing-number.py](./Python/missing-number.py)| Easy | |
 | 0762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[prime-number-of-set-bits-in-binary-representation.py](./Python/prime-number-of-set-bits-in-binary-representation.py)| Easy | |
@@ -402,3 +417,4 @@
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[fizz-buzz.py](./Python/fizz-buzz.py)| Easy | |
+| 0482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[license-key-formatting.py](./Python/license-key-formatting.py)| Easy | |
