@@ -114,11 +114,13 @@
 | 1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week/)|[day-of-the-week.py](./Python/day-of-the-week.py)| Easy | |
 | 1200|[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[minimum-absolute-difference.py](./Python/minimum-absolute-difference.py)| Easy | |
 | 1208|[Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)|[get-equal-substrings-within-budget.py](./Python/get-equal-substrings-within-budget.py)| Medium | |
-| 1213|[Intersection of Three Sorted Arrays](https://leetcode.com/contest/biweekly-contest-10/problems/intersection-of-three-sorted-arrays/)|[intersection-of-three-sorted-arrays.py](./Python/intersection-of-three-sorted-arrays.py)| Easy | not released yet |
+| 1213|[Intersection of Three Sorted Arrays](https://leetcode.com/contest/biweekly-contest-10/problems/intersection-of-three-sorted-arrays/)|[intersection-of-three-sorted-arrays.py](./Python/intersection-of-three-sorted-arrays.py)| Easy | Premium only |
 | 1217|[Play with Chips](https://leetcode.com/problems/play-with-chips/)|[play-with-chips.py](./Python/play-with-chips.py)| Easy | |
 | 1222|[Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/)|[queens-that-can-attack-the-king.py](./Python/queens-that-can-attack-the-king.py)| Medium | |
 | 1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[check-if-it-is-a-straight-line.py](./Python/check-if-it-is-a-straight-line.py)| Easy | |
 | 1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)|[remove-sub-folders-from-the-filesystem.py](./Python/remove-sub-folders-from-the-filesystem.py)| Medium | |
+| 1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[minimum-time-visiting-all-points.py](./Python/minimum-time-visiting-all-points.py)| Easy | |
+| 1267|[Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)|[count-servers-that-communicate.py](./Python/count-servers-that-communicate.py)| Medium | |
 
 ## Dynamic Programming
 
@@ -135,6 +137,7 @@
 | 1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[divisor-game.py](./Python/divisor-game.py)| Easy | |
 | 1186|[Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/)|[maximum-subarray-sum-with-one-deletion.py](./Python/maximum-subarray-sum-with-one-deletion.py)| Medium | |
 | 1218|[Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)|[longest-arithmetic-subsequence-of-given-difference.py](./Python/longest-arithmetic-subsequence-of-given-difference.py)| Medium | |
+| 1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[greatest-sum-divisible-by-three.py](./Python/greatest-sum-divisible-by-three.py)| Medium | |
 
 ## Math
 
@@ -154,6 +157,7 @@
 | 0910|[Smallest Range II](https://leetcode.com/problems/smallest-range-ii/)|[smallest-range-ii.py](./Python/smallest-range-ii.py)| Medium | |
 | 0914|[X of A Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)|[x-of-a-kind-in-a-deck-of-cards.py](./Python/x-of-a-kind-in-a-deck-of-cards.py)| Easy | |
 | 0949|[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)|[largest-time-for-given-digits.py](./Python/largest-time-for-given-digits.py)| Easy | |
+| 0970|[Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[powerful-integers.py](./Python/powerful-integers.py)| Easy | |
 | 1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[divisor-game.py](./Python/divisor-game.py)| Easy | |
 | 1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)|[distribute-candies-to-people.py](./Python/distribute-candies-to-people.py)| Easy | |
 | 1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/)|[day-of-the-year.py](./Python/day-of-the-year.py)| Easy | |
@@ -176,6 +180,7 @@
 | 0459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[repeated-substring-pattern.py](./Python/repeated-substring-pattern.py)| Easy | |
 | 0680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[valid-palindrome-ii.py](./Python/valid-palindrome-ii.py)| Easy | |
 | 0709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[to-lower-case.py](./Python/to-lower-case.py)| Easy | |
+| 0809|[Expressive Words](https://leetcode.com/problems/expressive-words/)|[expressive-words.py](./Python/expressive-words.py)| Medium | |
 | 0824|[Goat Latin](https://leetcode.com/problems/goat-latin/)|[goat-latin.py](./Python/goat-latin.py)| Easy | |
 | 0848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[shifting-letters.py](./Python/shifting-letters.py)| Medium | |
 | 0859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[buddy-strings.py](./Python/buddy-strings.py)| Easy | |
@@ -200,13 +205,16 @@
 | 0116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[populating-next-right-pointers-in-each-node.py](./Python/populating-next-right-pointers-in-each-node.py)| Medium | |
 | 0144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[binary-tree-preorder-traversal.py](./Python/binary-tree-preorder-traversal.py)| Medium | |
 | 0145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[binary-tree-postorder-traversal.py](./Python/binary-tree-postorder-traversal.py)| Hard | |
+| 0222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[count-complete-tree-nodes.py](./Python/count-complete-tree-nodes.py)| Medium | |
 | 0235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[lowest-common-ancestor-of-a-binary-search-tree.py](./Python/lowest-common-ancestor-of-a-binary-search-tree.py)| Easy | |
+| 0257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[binary-tree-paths.py](./Python/binary-tree-paths.py)| Easy | |
 | 0530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/submissions/)|[minimum-absolute-difference-in-bst.py](./Python/minimum-absolute-difference-in-bst.py)| Easy | |
 | 0637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[average-of-levels-in-binary-tree.py](./Python/average-of-levels-in-binary-tree.py)| Easy | |
 | 0653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[two-sum-iv-input-is-a-bst.py](./Python/two-sum-iv-input-is-a-bst.py)| Easy | |
 | 0872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[leaf-similar-trees.py](./Python/leaf-similar-trees.py)| Easy | |
 | 0897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[increasing-order-search-tree.py](./Python/increasing-order-search-tree.py)| Easy | |
 | 0958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[check-completeness-of-a-binary-tree.py](./Python/check-completeness-of-a-binary-tree.py)| Medium | |
+| 0965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[univalued-binary-tree.py](./Python/univalued-binary-tree.py)| Easy | |
 | 1214|[Two Sum BSTs](https://leetcode.com/contest/biweekly-contest-10/problems/two-sum-bsts/)|[two-sum-bsts.py](./Python/two-sum-bsts.py)| Medium | not released yet |
 
 ## Hash Table
@@ -224,6 +232,8 @@
 | 0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[intersection-of-two-arrays.py](./Python/intersection-of-two-arrays.py)| Easy | |
 | 0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[intersection-of-two-arrays-ii.py](./Python/intersection-of-two-arrays-ii.py)| Easy | |
 | 0447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)|[number-of-boomerangs.py](./Python/number-of-boomerangs.py)| Easy | |
+| 0953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[verifying-an-alien-dictionary.py](./Python/verifying-an-alien-dictionary.py)| Easy | |
+| 0970|[Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[powerful-integers.py](./Python/powerful-integers.py)| Easy | |
 | 1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[find-common-characters.py](./Python/find-common-characters)| Easy | |
 | 1072|[Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/)|[flip-columns-for-maximum-number-of-equal-rows.py](./Python/flip-columns-for-maximum-number-of-equal-rows.py)| Medium | |
 | 1078|[Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/)|[occurrences-after-bigram.py](./Python/occurrences-after-bigram.py)| Easy | |
@@ -239,6 +249,7 @@
 | 0111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[minimum-depth-of-binary-tree.py](./Python/minimum-depth-of-binary-tree.py)| Easy | |
 | 0112|[Path Sum](https://leetcode.com/problems/path-sum/)|[path-sum.py](./Python/path-sum.py)| Easy | |
 | 0116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[populating-next-right-pointers-in-each-node.py](./Python/populating-next-right-pointers-in-each-node.py)| Medium | |
+| 0257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[binary-tree-paths.py](./Python/binary-tree-paths.py)| Easy | |
 | 0638|[Shopping Offers](https://leetcode.com/problems/shopping-offers/)|[shopping-offers.py](./Python/shopping-offers.py)| Medium | |
 | 0872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[leaf-similar-trees.py](./Python/leaf-similar-trees.py)| Easy | |
 | 0897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[increasing-order-search-tree.py](./Python/increasing-order-search-tree.py)| Easy | |
@@ -253,6 +264,7 @@
 | 0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[search-insert-position.py](./Python/search-insert-position.py)| Easy | |
 | 0162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[find-peak-element](./Python/find-peak-element.py)| Medium | |
 | 0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[two-sum-ii-input-array-is-sorted.py](./Python/two-sum-ii-input-array-is-sorted.py)| Easy | |
+| 0222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[count-complete-tree-nodes.py](./Python/count-complete-tree-nodes.py)| Medium | |
 | 0278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[first-bad-version.py](./Python/first-bad-version.py)| Easy | |
 | 0287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[find-the-duplicate-number.py](./Python/find-the-duplicate-number.py)| Medium | |
 | 0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[intersection-of-two-arrays.py](./Python/intersection-of-two-arrays.py)| Easy | |
@@ -274,6 +286,7 @@
 | 0402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[remove-k-digits.py](./Python/remove-k-digits.py)| Medium | |
 | 0860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[lemonade-change.py](./Python/lemonade-change.py)| Easy | |
 | 0861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)|[score-after-flipping-matrix.py](./Python/score-after-flipping-matrix.py)| Medium | |
+| 0881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[boats-to-save-people.py](./Python/boats-to-save-people.py)| Medium | |
 | 0910|[Smallest Range II](https://leetcode.com/problems/smallest-range-ii/)|[smallest-range-ii.py](./Python/smallest-range-ii.py)| Medium | |
 | 0944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|[delete-columns-to-make-sorted.py](./Python/delete-columns-to-make-sorted.py)| Easy | [zip](./notes/zip.md) |
 | 1005|[Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)|[maximize-sum-of-array-after-k-negations.py](./Python/maximize-sum-of-array-after-k-negations.py)| Easy | |
@@ -287,6 +300,7 @@
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[remove-nth-node-from-end-of-list.py](./Python/remove-nth-node-from-end-of-list.py)| Medium | |
 | 0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[remove-duplicates-from-sorted-array.py](./Python/remove-duplicates-from-sorted-array.py)| Easy | |
 | 0027|[Remove Element](https://leetcode.com/problems/remove-element/)|[remove-element.py](./Python/remove-element.py)| Easy | |
 | 0028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[implement-strstr.py](./Python/implement-strstr.py)| Easy | |
@@ -307,6 +321,7 @@
 | 0532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[k-diff-pairs-in-an-array.py](./Python/k-diff-pairs-in-an-array.py)| Easy | |
 | 0844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[backspace-string-compare.py](./Python/backspace-string-compare.py)| Easy | |
 | 0845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)|[longest-mountain-in-array.py](./Python/longest-mountain-in-array.py)| Medium | |
+| 0881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[boats-to-save-people.py](./Python/boats-to-save-people.py)| Medium | |
 | 0925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[long-pressed-name.py](./Python/long-pressed-name.py)| Easy | |
 | 0977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[squares-of-a-sorted-array.py](./Python/squares-of-a-sorted-array.py)| Easy | |
 | 1234|[Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/)|[replace-the-substring-for-balanced-string.py](./Python/replace-the-substring-for-balanced-string.py)| Medium | |
@@ -346,6 +361,7 @@
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[remove-nth-node-from-end-of-list.py](./Python/remove-nth-node-from-end-of-list.py)| Medium | |
 | 0082|[Remove-Duplicates-from-Sorted-List-II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[remove-duplicates-from-sorted-list-ii.py](./Python/remove-duplicates-from-sorted-list-ii.py)| Medium | |
 | 0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[linked-list-cycle.py](./Python/linked-list-cycle.py)| Easy | |
 | 0203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[remove-linked-list-elements.py](./Python/remove-linked-list-elements.py)| Easy | |
@@ -357,6 +373,7 @@
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[find-the-town-judge.py](./Python/find-the-town-judge.py)| Easy | |
+| 1267|[Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)|[count-servers-that-communicate.py](./Python/count-servers-that-communicate.py)| Medium | |
 
 ## Sort
 
@@ -423,6 +440,7 @@
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0892|[Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)|[surface-area-of-3d-shapes.py](./Python/surface-area-of-3d-shapes.py)| Easy | |
 | 1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[check-if-it-is-a-straight-line.py](./Python/check-if-it-is-a-straight-line.py)| Easy | |
+| 1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[minimum-time-visiting-all-points.py](./Python/minimum-time-visiting-all-points.py)| Easy | |
 
 ## Binary Search Tree
 
