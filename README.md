@@ -29,6 +29,7 @@
 * [Ordered Map](#ordered-map)
 * [Brainteaser](#brainteaser)
 * [Geometry](#geometry)
+* [Line Sweep](#line-sweep)
 * [Binary Search Tree](#binary-search-tree)
 * [No category](#no-category)
 
@@ -96,6 +97,8 @@
 | 0922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[sort-array-by-parity-ii.py](./Python/sort-array-by-parity-ii.py)| Easy | |
 | 0926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[flip-string-to-monotone-increasing.py](./Python/flip-string-to-monotone-increasing.py)| Medium | |
 | 0941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[valid-mountain-array.py](./Python/valid-mountain-array.py)| Easy | |
+| 0950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)|[reveal-cards-in-increasing-order.py](./Python/reveal-cards-in-increasing-order.py)| Medium | |
+| 0969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)|[pancake-sorting.py](./Python/pancake-sorting.py)| Medium | |
 | 0977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[squares-of-a-sorted-array.py](./Python/squares-of-a-sorted-array.py)| Easy | |
 | 0985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)|[sum-of-even-numbers-after-queries.py](./Python/sum-of-even-numbers-after-queries.py)| Easy | |
 | 0989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[add-to-array-form-of-integer.py](./Python/add-to-array-form-of-integer.py)| Easy | |
@@ -121,6 +124,7 @@
 | 1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)|[remove-sub-folders-from-the-filesystem.py](./Python/remove-sub-folders-from-the-filesystem.py)| Medium | |
 | 1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[minimum-time-visiting-all-points.py](./Python/minimum-time-visiting-all-points.py)| Easy | |
 | 1267|[Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)|[count-servers-that-communicate.py](./Python/count-servers-that-communicate.py)| Medium | |
+| 1275|[Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)|[find-winner-on-a-tic-tac-toe-game.py](./Python/find-winner-on-a-tic-tac-toe-game.py)| Easy | |
 
 ## Dynamic Programming
 
@@ -156,6 +160,7 @@
 | 0908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[smallest-range-i.py](./Python/smallest-range-i.py)| Easy | |
 | 0910|[Smallest Range II](https://leetcode.com/problems/smallest-range-ii/)|[smallest-range-ii.py](./Python/smallest-range-ii.py)| Medium | |
 | 0914|[X of A Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)|[x-of-a-kind-in-a-deck-of-cards.py](./Python/x-of-a-kind-in-a-deck-of-cards.py)| Easy | |
+| 0942|[DI String Match](https://leetcode.com/problems/di-string-match/)|[di-string-match.py](./Python/di-string-match.py)| Easy | |
 | 0949|[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)|[largest-time-for-given-digits.py](./Python/largest-time-for-given-digits.py)| Easy | |
 | 0970|[Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[powerful-integers.py](./Python/powerful-integers.py)| Easy | |
 | 1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[divisor-game.py](./Python/divisor-game.py)| Easy | |
@@ -165,6 +170,8 @@
 | 1217|[Play with Chips](https://leetcode.com/problems/play-with-chips/)|[play-with-chips.py](./Python/play-with-chips.py)| Easy | |
 | 1218|[Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)|[longest-arithmetic-subsequence-of-given-difference.py](./Python/longest-arithmetic-subsequence-of-given-difference.py)| Medium | |
 | 1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[check-if-it-is-a-straight-line.py](./Python/check-if-it-is-a-straight-line.py)| Easy | |
+| 1271|[Hexspeak](https://leetcode.com/problems/hexspeak/)|[hexspeak.py](./Python/hexspeak.py)| Easy | |
+| 1272|[Remove Interval](https://leetcode.com/problems/remove-interval/)|[remove-interval.py](./Python/remove-interval.py)| Medium | |
 
 ## String
 
@@ -194,6 +201,7 @@
 | 1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)|[remove-sub-folders-from-the-filesystem.py](./Python/remove-sub-folders-from-the-filesystem.py)| Medium | |
 | 1234|[Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/)|[replace-the-substring-for-balanced-string.py](./Python/replace-the-substring-for-balanced-string.py)| Medium | |
 | 1247|[Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/)|[minimum-swaps-to-make-strings-equal.py](./Python/minimum-swaps-to-make-strings-equal.py)| Medium | |
+| 1271|[Hexspeak](https://leetcode.com/problems/hexspeak/)|[hexspeak.py](./Python/hexspeak.py)| Easy | |
 
 ## Tree
 
@@ -385,6 +393,7 @@
 | 0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[intersection-of-two-arrays.py](./Python/intersection-of-two-arrays.py)| Easy | |
 | 0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[intersection-of-two-arrays-ii.py](./Python/intersection-of-two-arrays-ii.py)| Easy | |
 | 0922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[sort-array-by-parity-ii.py](./Python/sort-array-by-parity-ii.py)| Easy | |
+| 0969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)|[pancake-sorting.py](./Python/pancake-sorting.py)| Medium | |
 | 1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[relative-sort-array.py](./Python/relative-sort-array.py)| Easy | |
 
 ## Bit Manipulation
@@ -441,6 +450,12 @@
 | 0892|[Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)|[surface-area-of-3d-shapes.py](./Python/surface-area-of-3d-shapes.py)| Easy | |
 | 1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[check-if-it-is-a-straight-line.py](./Python/check-if-it-is-a-straight-line.py)| Easy | |
 | 1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[minimum-time-visiting-all-points.py](./Python/minimum-time-visiting-all-points.py)| Easy | |
+
+## Line Sweep
+
+|  #  | Problem           |  Solution       | Difficulty    | Notes | 
+|:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 1272|[Remove Interval](https://leetcode.com/problems/remove-interval/)|[remove-interval.py](./Python/remove-interval.py)| Medium | |
 
 ## Binary Search Tree
 
