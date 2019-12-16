@@ -76,6 +76,7 @@
 | 0532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[k-diff-pairs-in-an-array.py](./Python/k-diff-pairs-in-an-array.py)| Easy | |
 | 0561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[array-partition-i.py](./Python/array-partition-i.py)| Easy | |
 | 0566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[reshape-the-matrix.py](./Python/reshape-the-matrix.py)| Easy | |
+| 0605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[can-place-flowers.py](./Python/can-place-flowers.py)| Easy | |
 | 0628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/submissions/)|[maximum-product-of-three-numbers.py](./Python/maximum-product-of-three-numbers.py)| Easy | |
 | 0643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[maximum-average-subarray-i.py](./Python/maximum-average-subarray-i.py)| Easy | |
 | 0674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[longest-continuous-increasing-subsequence.py](./Python/longest-continuous-increasing-subsequence.py)| Easy | |
@@ -125,6 +126,7 @@
 | 1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[minimum-time-visiting-all-points.py](./Python/minimum-time-visiting-all-points.py)| Easy | |
 | 1267|[Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)|[count-servers-that-communicate.py](./Python/count-servers-that-communicate.py)| Medium | |
 | 1275|[Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)|[find-winner-on-a-tic-tac-toe-game.py](./Python/find-winner-on-a-tic-tac-toe-game.py)| Easy | |
+| 1287|[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)|[element-appearing-more-than-25-in-sorted-array.py](./Python/element-appearing-more-than-25-in-sorted-array.py)| Easy | |
 
 ## Dynamic Programming
 
@@ -189,10 +191,12 @@
 | 0459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[repeated-substring-pattern.py](./Python/repeated-substring-pattern.py)| Easy | |
 | 0680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[valid-palindrome-ii.py](./Python/valid-palindrome-ii.py)| Easy | |
 | 0709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[to-lower-case.py](./Python/to-lower-case.py)| Easy | |
+| 0791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/)|[custom-sort-string.py](./Python/custom-sort-string.py)| Medium | |
 | 0809|[Expressive Words](https://leetcode.com/problems/expressive-words/)|[expressive-words.py](./Python/expressive-words.py)| Medium | |
 | 0824|[Goat Latin](https://leetcode.com/problems/goat-latin/)|[goat-latin.py](./Python/goat-latin.py)| Easy | |
 | 0848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[shifting-letters.py](./Python/shifting-letters.py)| Medium | |
 | 0859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[buddy-strings.py](./Python/buddy-strings.py)| Easy | |
+| 0890|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[find-and-replace-pattern.py](./Python/find-and-replace-pattern.py)| Medium | |
 | 0916|[Word Subsets](https://leetcode.com/problems/word-subsets/)|[word-subsets.py](./Python/word-subsets.py)| Medium | |
 | 0925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[long-pressed-name.py](./Python/long-pressed-name.py)| Easy | |
 | 0929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[unique-email-addresses.py](./Python/unique-email-addresses.py)| Easy | |
@@ -247,6 +251,7 @@
 | 0447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)|[number-of-boomerangs.py](./Python/number-of-boomerangs.py)| Easy | |
 | 0451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[sort-characters-by-frequency.py](./Python/sort-characters-by-frequency.py)| Medium | |
 | 0463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[island-perimeter.py](./Python/island-perimeter.py)| Easy | |
+| 0599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[minimum-index-sum-of-two-lists.py](./Python/minimum-index-sum-of-two-lists.py)| Easy | |
 | 0953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[verifying-an-alien-dictionary.py](./Python/verifying-an-alien-dictionary.py)| Easy | |
 | 0970|[Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[powerful-integers.py](./Python/powerful-integers.py)| Easy | |
 | 1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[find-common-characters.py](./Python/find-common-characters)| Easy | |
@@ -369,12 +374,15 @@
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0093|[Restore IP Address](https://leetcode.com/problems/restore-ip-addresses/)|[restore-ip-address.py](./Python/restore-ip-address.py)| Medium | |
 | 0784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[letter-case-permutation.py](./Python/letter-case-permutation.py)| Easy | |
+| 1286|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[iterator-for-combination.py](./Python/iterator-for-combination.py)| Medium | |
+| 1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/)|[sequential-digits.py](./Python/sequential-digits.py)| Medium | |
 
 ## Design
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[design-linked-list.py](./Python/design-linked-list.py)| Easy | |
+| 1286|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[iterator-for-combination.py](./Python/iterator-for-combination.py)| Medium | |
 
 ## Linked List
 
@@ -386,6 +394,7 @@
 | 0203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[remove-linked-list-elements.py](./Python/remove-linked-list-elements.py)| Easy | |
 | 0234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[palindrome-linked-list.py](./Python/palindrome-linked-list.py)| Easy | |
 | 0707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[design-linked-list.py](./Python/design-linked-list.py)| Easy | |
+| 1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[convert-binary-number-in-a-linked-list-to-integer.py](./Python/convert-binary-number-in-a-linked-list-to-integer.py)| Easy | |
 
 ## Graph
 
@@ -416,6 +425,7 @@
 | 0268|[Missing Number](https://leetcode.com/problems/missing-number)|[missing-number.py](./Python/missing-number.py)| Easy | |
 | 0762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[prime-number-of-set-bits-in-binary-representation.py](./Python/prime-number-of-set-bits-in-binary-representation.py)| Easy | |
 | 0784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[letter-case-permutation.py](./Python/letter-case-permutation.py)| Easy | |
+| 1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[convert-binary-number-in-a-linked-list-to-integer.py](./Python/convert-binary-number-in-a-linked-list-to-integer.py)| Easy | |
 
 ## Heap
 
@@ -468,6 +478,7 @@
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 1272|[Remove Interval](https://leetcode.com/problems/remove-interval/)|[remove-interval.py](./Python/remove-interval.py)| Medium | |
+| 1288|[Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)|[remove-covered-intervals.py](./Python/remove-covered-intervals.py)| Medium | |
 
 ## Binary Search Tree
 
