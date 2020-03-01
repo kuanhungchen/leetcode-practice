@@ -134,6 +134,8 @@
 | 1292|[Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/)|[maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](./Python/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py)| Medium | |
 | 1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[find-numbers-with-even-number-of-digits.py](./Python/find-numbers-with-even-number-of-digits.py)| Easy | |
 | 1296|[Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)|[divide-array-in-sets-of-k-consecutive-numbers.py](./Python/divide-array-in-sets-of-k-consecutive-numbers.py)| Medium | |
+| 1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[how-many-numbers-are-smaller-than-the-current-number.py](./Python/how-many-numbers-are-smaller-than-the-current-number.py)| Easy | |
+| 1366|[Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/)|[rank-teams-by-votes.py](./Python/rank-teams-by-votes.py)| Medium | |
 
 ## Dynamic Programming
 
@@ -155,6 +157,7 @@
 | 1186|[Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/)|[maximum-subarray-sum-with-one-deletion.py](./Python/maximum-subarray-sum-with-one-deletion.py)| Medium | |
 | 1218|[Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)|[longest-arithmetic-subsequence-of-given-difference.py](./Python/longest-arithmetic-subsequence-of-given-difference.py)| Medium | |
 | 1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[greatest-sum-divisible-by-three.py](./Python/greatest-sum-divisible-by-three.py)| Medium | |
+| 1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[linked-list-in-binary-tree.py](./Python/linked-list-in-binary-tree.py)| Medium | |
 
 ## Math
 
@@ -246,6 +249,7 @@
 | 0958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[check-completeness-of-a-binary-tree.py](./Python/check-completeness-of-a-binary-tree.py)| Medium | |
 | 0965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[univalued-binary-tree.py](./Python/univalued-binary-tree.py)| Easy | |
 | 1214|[Two Sum BSTs](https://leetcode.com/contest/biweekly-contest-10/problems/two-sum-bsts/)|[two-sum-bsts.py](./Python/two-sum-bsts.py)| Medium | not released yet |
+| 1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[linked-list-in-binary-tree.py](./Python/linked-list-in-binary-tree.py)| Medium | |
 
 ## Hash Table
 
@@ -277,6 +281,7 @@
 | 1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)|[find-words-that-can-be-formed-by-characters.py](./Python/find-words-that-can-be-formed-by-characters.py)| Easy | |
 | 1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[maximum-number-of-balloons.py](./Python/maximum-number-of-balloons.py)| Easy | |
 | 1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[unique-number-of-occurrences.py](./Python/unique-number-of-occurrences.py)| Easy | |
+| 1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[how-many-numbers-are-smaller-than-the-current-number.py](./Python/how-many-numbers-are-smaller-than-the-current-number.py)| Easy | |
 
 ## Depth-first Search
 
@@ -418,6 +423,7 @@
 | 0445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[add-two-numbers-ii.py](./Python/add-two-numbers-ii.py)| Medium | |
 | 0707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[design-linked-list.py](./Python/design-linked-list.py)| Easy | |
 | 1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[convert-binary-number-in-a-linked-list-to-integer.py](./Python/convert-binary-number-in-a-linked-list-to-integer.py)| Easy | |
+| 1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[linked-list-in-binary-tree.py](./Python/linked-list-in-binary-tree.py)| Medium | |
 
 ## Graph
 
@@ -439,6 +445,7 @@
 | 0922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[sort-array-by-parity-ii.py](./Python/sort-array-by-parity-ii.py)| Easy | |
 | 0969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)|[pancake-sorting.py](./Python/pancake-sorting.py)| Medium | |
 | 1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[relative-sort-array.py](./Python/relative-sort-array.py)| Easy | |
+| 1366|[Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/)|[rank-teams-by-votes.py](./Python/rank-teams-by-votes.py)| Medium | |
 
 ## Bit Manipulation
 
