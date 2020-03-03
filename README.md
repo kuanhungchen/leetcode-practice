@@ -5,33 +5,28 @@
 
 ## Tags
 
-* [Array](#array)
-* [Dynamic Programming](#dynamic-programming)
-* [Math](#math)
-* [String](#string)
-* [Tree](#tree)
-* [Hash Table](#hash-table)
-* [Depth-first Search](#depth-first-search)
-* [Binary Search](#binary-search)
-* [Greedy](#greedy)
-* [Two Pointers](#two-pointers)
-* [Breadth First Search](#breadth-first-search)
-* [Stack](#stack)
-* [Backtracking](#backtracking)
-* [Design](#design)
-* [Linked List](#linked-list)
-* [Graph](#graph)
-* [Sort](#sort)
-* [Bit Manipulation](#bit-manipulation)
-* [Heap](#heap)
-* [Divide and Conquer](#divide-and-conquer)
-* [Recursion](#recursion)
-* [Ordered Map](#ordered-map)
-* [Brainteaser](#brainteaser)
-* [Geometry](#geometry)
-* [Line Sweep](#line-sweep)
-* [Binary Search Tree](#binary-search-tree)
-* [No category](#no-category)
+|  👻 |  👅 |  🏁 |  🌈 |  💎 | 
+|:---:|:---:|:---:|:---:|:---:|
+|[Array](#array)|[Dynamic Programming](#dynamic-programming)|[Math](#math)|[String](#string)|[Tree](#tree)|
+|[Hash Table](#hash-table)|[Depth-first Search](#depth-first-search)|[Binary Search](#binary-search)|[Greedy](#greedy)|[Two Pointers](#two-pointers)|
+|[Breadth First Search](#breadth-first-search)|[Stack](#stack)|[Backtracking](#backtracking)|[Design](#design)|[Linked List](#linked-list)|
+|[Graph](#graph)|[Sort](#sort)|[Bit Manipulation](#bit-manipulation)|[Heap](#heap)|[Divide and Conquer](#divide-and-conquer)|
+|[Recursion](#recursion)|[Ordered Map](#ordered-map)|[Brainteaser](#brainteaser)|[Geometry](#geometry)|[Line Sweep](#line-sweep)|
+|[Binary Search Tree](#binary-search-tree)|[No category](#no-category)||||
+
+## Contest reports
+
+### Weekly contests
+
+|  👻 |  👅 |  🏁 |  🌈 |  💎 | 
+|:---:|:---:|:---:|:---:|:---:|
+|[Weekly 178](https://kuanhungchen.github.io/2020/03/02/LeetCode-Weekly-Contest-178/)|Coming soon|Coming soon|Coming soon|Coming soon|
+
+### Biweekly contests
+
+|  👻 |  👅 |  🏁 |  🌈 |  💎 | 
+|:---:|:---:|:---:|:---:|:---:|
+|Coming soon|Coming soon|Coming soon|Coming soon|Coming soon|
 
 ## Notes
 
