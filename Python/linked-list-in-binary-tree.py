@@ -25,4 +25,3 @@ class Solution:
             return dfs2(head, root) or dfs(head, root.left) or dfs(head, root.right)
 
         return dfs(head, root)
-
