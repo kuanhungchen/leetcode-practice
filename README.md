@@ -31,7 +31,7 @@
 ## Notes
 
 * [collections](./notes/collections.md)
-* [str-vs-repr](./notes/str-vs-repr.md)
+* [str-vs-repr](./notes/str-vs-re pr.md)
 * [zip](./notes/zip.md)
 
 ## Array
@@ -129,6 +129,8 @@
 | 1292|[Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/)|[maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](./Python/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py)| Medium | |
 | 1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[find-numbers-with-even-number-of-digits.py](./Python/find-numbers-with-even-number-of-digits.py)| Easy | |
 | 1296|[Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)|[divide-array-in-sets-of-k-consecutive-numbers.py](./Python/divide-array-in-sets-of-k-consecutive-numbers.py)| Medium | |
+| 1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[count-negative-numbers-in-a-sorted-matrix.py](./Python/count-negative-numbers-in-a-sorted-matrix.py)| Easy | |
+| 1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[product-of-the-last-k-numbers.py](./Python/product-of-the-last-k-numbers.py)| Medium | |
 | 1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[how-many-numbers-are-smaller-than-the-current-number.py](./Python/how-many-numbers-are-smaller-than-the-current-number.py)| Easy | |
 | 1366|[Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/)|[rank-teams-by-votes.py](./Python/rank-teams-by-votes.py)| Medium | |
 
@@ -153,6 +155,7 @@
 | 1218|[Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)|[longest-arithmetic-subsequence-of-given-difference.py](./Python/longest-arithmetic-subsequence-of-given-difference.py)| Medium | |
 | 1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[greatest-sum-divisible-by-three.py](./Python/greatest-sum-divisible-by-three.py)| Medium | |
 | 1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[linked-list-in-binary-tree.py](./Python/linked-list-in-binary-tree.py)| Medium | |
+| 1359|[Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)|[count-all-valid-pickup-and-delivery-options.py](./Python/count-all-valid-pickup-and-delivery-options.py)| Hard | |
 
 ## Math
 
@@ -184,6 +187,7 @@
 | 1271|[Hexspeak](https://leetcode.com/problems/hexspeak/)|[hexspeak.py](./Python/hexspeak.py)| Easy | |
 | 1272|[Remove Interval](https://leetcode.com/problems/remove-interval/)|[remove-interval.py](./Python/remove-interval.py)| Medium | |
 | 1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[subtract-the-product-and-sum-of-digits-of-an-integers.py](./Python/subtract-the-product-and-sum-of-digits-of-an-integer.py)| Easy | |
+| 1359|[Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)|[count-all-valid-pickup-and-delivery-options.py](./Python/count-all-valid-pickup-and-delivery-options.py)| Hard | |
 
 ## String
 
@@ -220,6 +224,7 @@
 | 1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|[search-suggestions-system.py](./Python/search-suggestions-system.py)| Medium | |
 | 1271|[Hexspeak](https://leetcode.com/problems/hexspeak/)|[hexspeak.py](./Python/hexspeak.py)| Easy | |
 | 1297|[Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/)|[maximum-number-of-occurrences-of-a-substring.py](./Python/maximum-number-of-occurrences-of-a-substring.py)| Medium | |
+| 1358|[Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)|[number-of-substrings-containing-all-three-characters.py](./Python/number-of-substrings-containing-all-three-characters.py)| Medium | |
 
 ## Tree
 
@@ -320,6 +325,7 @@
 | 1201|[Ugly Number III](https://leetcode.com/problems/ugly-number-iii/)|[ugly-number-iii.py](./Python/ugly-number-iii.py)| Medium | |
 | 1283|[Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)|[find-the-smallest-divisor-given-a-threshold.py](./Python/find-the-smallest-divisor-given-a-threshold.py)| Medium | |
 | 1292|[Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/)|[maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](./Python/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py)| Medium | |
+| 1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[count-negative-numbers-in-a-sorted-matrix.py](./Python/count-negative-numbers-in-a-sorted-matrix.py)| Easy | |
 
 ## Greedy
 
@@ -410,6 +416,8 @@
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[design-linked-list.py](./Python/design-linked-list.py)| Easy | |
 | 1286|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[iterator-for-combination.py](./Python/iterator-for-combination.py)| Medium | |
+| 1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[product-of-the-last-k-numbers.py](./Python/product-of-the-last-k-numbers.py)| Medium | |
+| 1357|[Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/)|[apply-discount-every-n-orders.py](./Python/apply-discount-every-n-orders.py)| Medium | |
 
 ## Linked List
 
@@ -445,6 +453,7 @@
 | 0922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[sort-array-by-parity-ii.py](./Python/sort-array-by-parity-ii.py)| Easy | |
 | 0969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)|[pancake-sorting.py](./Python/pancake-sorting.py)| Medium | |
 | 1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[relative-sort-array.py](./Python/relative-sort-array.py)| Easy | |
+| 1356|[Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[sort-integers-by-the-number-of-1-bits.py](./Python/sort-integers-by-the-number-of-1-bits.py)| Easy | |
 | 1366|[Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/)|[rank-teams-by-votes.py](./Python/rank-teams-by-votes.py)| Medium | |
 
 ## Bit Manipulation
@@ -459,6 +468,7 @@
 | 0784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[letter-case-permutation.py](./Python/letter-case-permutation.py)| Easy | |
 | 1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[convert-binary-number-in-a-linked-list-to-integer.py](./Python/convert-binary-number-in-a-linked-list-to-integer.py)| Easy | |
 | 1297|[Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/)|[maximum-number-of-occurrences-of-a-substring.py](./Python/maximum-number-of-occurrences-of-a-substring.py)| Medium | |
+| 1356|[Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[sort-integers-by-the-number-of-1-bits.py](./Python/sort-integers-by-the-number-of-1-bits.py)| Easy | |
 
 ## Heap
 
