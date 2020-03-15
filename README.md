@@ -133,6 +133,7 @@
 | 1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[product-of-the-last-k-numbers.py](./Python/product-of-the-last-k-numbers.py)| Medium | |
 | 1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[how-many-numbers-are-smaller-than-the-current-number.py](./Python/how-many-numbers-are-smaller-than-the-current-number.py)| Easy | |
 | 1366|[Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/)|[rank-teams-by-votes.py](./Python/rank-teams-by-votes.py)| Medium | |
+| 1380|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|[lucky-numbers-in-a-matrix.py](./Python/lucky-numbers-in-a-matrix.py)| Easy | |
 
 ## Dynamic Programming
 
@@ -225,6 +226,8 @@
 | 1271|[Hexspeak](https://leetcode.com/problems/hexspeak/)|[hexspeak.py](./Python/hexspeak.py)| Easy | |
 | 1297|[Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/)|[maximum-number-of-occurrences-of-a-substring.py](./Python/maximum-number-of-occurrences-of-a-substring.py)| Medium | |
 | 1358|[Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)|[number-of-substrings-containing-all-three-characters.py](./Python/number-of-substrings-containing-all-three-characters.py)| Medium | |
+| 1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|[increasing-decreasing-string.py](./Python/increasing-decreasing-string.py)| Easy | |
+| 1374|[Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)|[generate-a-string-with-characters-that-have-odd-counts.py](./Python/generate-a-string-with-characters-that-have-odd-counts.py)| Easy | |
 
 ## Tree
 
@@ -400,6 +403,7 @@
 | 0921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[minimum-add-to-make-parenthess-valid.py](./Python/minimum-add-to-make-parentheses-valid.py)| Medium | |
 | 1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|[reverse-substrings-between-each-pair-of-parentheses.py](./Python/reverse-substrings-between-each-pair-of-parentheses.py)| Medium | |
 | 1209|[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[remove-all-adjacent-duplicates-in-string-ii.py](./Python/remove-all-adjacent-duplicates-in-string-ii.py)| Medium | |
+| 1381|[Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)|[design-a-stack-with-increment-operation.py](./Python/design-a-stack-with-increment-operation.py)| Medium | |
 
 ## Backtracking
 
@@ -418,6 +422,7 @@
 | 1286|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[iterator-for-combination.py](./Python/iterator-for-combination.py)| Medium | |
 | 1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[product-of-the-last-k-numbers.py](./Python/product-of-the-last-k-numbers.py)| Medium | |
 | 1357|[Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/)|[apply-discount-every-n-orders.py](./Python/apply-discount-every-n-orders.py)| Medium | |
+| 1381|[Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)|[design-a-stack-with-increment-operation.py](./Python/design-a-stack-with-increment-operation.py)| Medium | |
 
 ## Linked List
 
@@ -455,6 +460,7 @@
 | 1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[relative-sort-array.py](./Python/relative-sort-array.py)| Easy | |
 | 1356|[Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[sort-integers-by-the-number-of-1-bits.py](./Python/sort-integers-by-the-number-of-1-bits.py)| Easy | |
 | 1366|[Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/)|[rank-teams-by-votes.py](./Python/rank-teams-by-votes.py)| Medium | |
+| 1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|[increasing-decreasing-string.py](./Python/increasing-decreasing-string.py)| Easy | |
 
 ## Bit Manipulation
 
