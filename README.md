@@ -129,12 +129,16 @@
 | 1292|[Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/)|[maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](./Python/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py)| Medium | |
 | 1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[find-numbers-with-even-number-of-digits.py](./Python/find-numbers-with-even-number-of-digits.py)| Easy | |
 | 1296|[Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)|[divide-array-in-sets-of-k-consecutive-numbers.py](./Python/divide-array-in-sets-of-k-consecutive-numbers.py)| Medium | |
+| 1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[decompress-run-length-encoded-list.py](./Python/decompress-run-length-encoded-list.py)| Easy | |
 | 1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[count-negative-numbers-in-a-sorted-matrix.py](./Python/count-negative-numbers-in-a-sorted-matrix.py)| Easy | |
 | 1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[product-of-the-last-k-numbers.py](./Python/product-of-the-last-k-numbers.py)| Medium | |
 | 1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[how-many-numbers-are-smaller-than-the-current-number.py](./Python/how-many-numbers-are-smaller-than-the-current-number.py)| Easy | |
 | 1366|[Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/)|[rank-teams-by-votes.py](./Python/rank-teams-by-votes.py)| Medium | |
 | 1380|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|[lucky-numbers-in-a-matrix.py](./Python/lucky-numbers-in-a-matrix.py)| Easy | |
 | 1375|[Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/)|[bulb-switcher-iii.py](./Python/bulb-switcher-iii.py)| Medium | |
+| 1385|[Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)|[find-the-distance-value-between-two-arrays.py](./Python/find-the-distance-value-between-two-arrays.py)| Easy | |
+| 1394|[Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)|[find-lucky-integer-in-an-array.py](./Python/find-lucky-integer-in-an-array.py)| Easy | |
+| 1395|[Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)|[count-number-of-teams](./Python/count-number-of-teams.py)| Medium | |
 
 ## Dynamic Programming
 
@@ -425,6 +429,7 @@
 | 1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[product-of-the-last-k-numbers.py](./Python/product-of-the-last-k-numbers.py)| Medium | |
 | 1357|[Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/)|[apply-discount-every-n-orders.py](./Python/apply-discount-every-n-orders.py)| Medium | |
 | 1381|[Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)|[design-a-stack-with-increment-operation.py](./Python/design-a-stack-with-increment-operation.py)| Medium | |
+| 1396|[Design Underground System](https://leetcode.com/problems/design-underground-system/)|[design-underground-system.py](./Python/design-underground-system.py)| Medium | |
 
 ## Linked List
 
