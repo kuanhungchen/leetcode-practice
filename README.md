@@ -20,7 +20,7 @@
 
 |  👻 |  👅 |  🏁 |  🌈 |  💎 | 
 |:---:|:---:|:---:|:---:|:---:|
-|[Weekly 178](https://kuanhungchen.github.io/2020/03/02/LeetCode-Weekly-Contest-178/)|Coming soon|Coming soon|Coming soon|Coming soon|
+|[Weekly 182](https://kuanhungchen.github.io/2020/04/01/LeetCode-Weekly-Contest-182-md/)|[Weekly 178](https://kuanhungchen.github.io/2020/03/02/LeetCode-Weekly-Contest-178/)|Coming soon|Coming soon|Coming soon|
 
 ### Biweekly contests
 
