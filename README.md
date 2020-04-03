@@ -137,6 +137,7 @@
 | 1380|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|[lucky-numbers-in-a-matrix.py](./Python/lucky-numbers-in-a-matrix.py)| Easy | |
 | 1375|[Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/)|[bulb-switcher-iii.py](./Python/bulb-switcher-iii.py)| Medium | |
 | 1385|[Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)|[find-the-distance-value-between-two-arrays.py](./Python/find-the-distance-value-between-two-arrays.py)| Easy | |
+| 1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[create-target-array-in-the-given-order.py](./Python/create-target-array-in-the-given-order.py)| Easy | |
 | 1394|[Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)|[find-lucky-integer-in-an-array.py](./Python/find-lucky-integer-in-an-array.py)| Easy | |
 | 1395|[Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)|[count-number-of-teams](./Python/count-number-of-teams.py)| Medium | |
 
@@ -169,6 +170,7 @@
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[sqrtx.py](./Python/sqrtx.py)| Easy | |
 | 0166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[fraction-to-recurring-decimal](./Python/fraction-to-recurring-decimal.py)| Medium | |
+| 0202|[Happy Number](https://leetcode.com/problems/happy-number/)|[happy-number.py](./Python/happy-number.py)| Easy | |
 | 0223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)|[rectangle-area.py](./Python/rectangle-area.py)| Medium | |
 | 0268|[Missing Number](https://leetcode.com/problems/missing-number)|[missing-number.py](./Python/missing-number.py)| Easy | |
 | 0367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[valid-perfect-square.py](./Python/valid-perfect-square.py)| Easy | |
@@ -194,6 +196,7 @@
 | 1272|[Remove Interval](https://leetcode.com/problems/remove-interval/)|[remove-interval.py](./Python/remove-interval.py)| Medium | |
 | 1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[subtract-the-product-and-sum-of-digits-of-an-integers.py](./Python/subtract-the-product-and-sum-of-digits-of-an-integer.py)| Easy | |
 | 1359|[Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)|[count-all-valid-pickup-and-delivery-options.py](./Python/count-all-valid-pickup-and-delivery-options.py)| Hard | |
+| 1390|[Four Divisors](https://leetcode.com/problems/four-divisors/)|[four-divisors.py](./Python/four-divisors.py)| Medium | |
 
 ## String
 
@@ -233,6 +236,7 @@
 | 1358|[Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)|[number-of-substrings-containing-all-three-characters.py](./Python/number-of-substrings-containing-all-three-characters.py)| Medium | |
 | 1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|[increasing-decreasing-string.py](./Python/increasing-decreasing-string.py)| Easy | |
 | 1374|[Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)|[generate-a-string-with-characters-that-have-odd-counts.py](./Python/generate-a-string-with-characters-that-have-odd-counts.py)| Easy | |
+| 1392|[Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)|[longest-happy-prefix.py](./Python/longest-happy-prefix.py)| Hard | |
 
 ## Tree
 
@@ -270,6 +274,7 @@
 | 0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[binary-tree-inorder-traversal.py](./Python/binary-tree-inorder-traversal.py) | Medium | |
 | 0136|[Single Number](https://leetcode.com/problems/single-number/)|[single-number.py](./Python/single-number.py) | Easy | |
 | 0166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[fraction-to-recurring-decimal](./Python/fraction-to-recurring-decimal.py)| Medium | |
+| 0202|[Happy Number](https://leetcode.com/problems/happy-number/)|[happy-number.py](./Python/happy-number.py)| Easy | |
 | 0217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[contains-duplicate.py](./Python/contains-duplicate.py)| Easy | |
 | 0219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[contains-duplicate-ii.py](./Python/contains-duplicate-ii.py)| Easy | |
 | 0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[valid-anagram.py](./Python/valid-anagram.py)| Easy | |
@@ -309,6 +314,7 @@
 | 0872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[leaf-similar-trees.py](./Python/leaf-similar-trees.py)| Easy | |
 | 0897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[increasing-order-search-tree.py](./Python/increasing-order-search-tree.py)| Easy | |
 | 1020|[Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)|[number-of-enclaves.py](./Python/number-of-enclaves.py)| Medium | |
+| 1391|[Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/)|[check-of-there-is-a-valid-path-in-a-grid.py](./Python/check-if-there-is-a-valid-path-in-a-grid.py)| Medium | |
 
 ## Binary Search
 
@@ -396,6 +402,7 @@
 | 0559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[maximum-depth-of-n-ary-tree.py](./Python/maximum-depth-of-n-ary-tree.py)| Easy | |
 | 1298|[Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/)|[maximum-candies-you-can-get-from-boxes.py](./Python/maximum-candies-you-can-get-from-boxes.py)| Hard | |
 | 1368|[Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/)|[minimum-cost-to-make-at-least-one-valid-path-in-a-grid.py](./Python/minimum-cost-to-make-at-least-one-valid-path-in-a-grid.py)| Hard | |
+| 1391|[Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/)|[check-of-there-is-a-valid-path-in-a-grid.py](./Python/check-if-there-is-a-valid-path-in-a-grid.py)| Medium | |
 
 ## Stack
 
