@@ -22,8 +22,9 @@
 
 ## Notes
 
+* [lru-cache.md](./notes/lru-cache.md)
 * [collections](./notes/collections.md)
-* [str-vs-repr](./notes/str-vs-re pr.md)
+* [str-vs-repr](./notes/str-vs-repr.md)
 * [zip](./notes/zip.md)
 
 ## Array
