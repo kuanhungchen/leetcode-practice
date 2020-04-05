@@ -14,19 +14,11 @@
 |[Recursion](#recursion)|[Ordered Map](#ordered-map)|[Brainteaser](#brainteaser)|[Geometry](#geometry)|[Line Sweep](#line-sweep)|
 |[Binary Search Tree](#binary-search-tree)|[No category](#no-category)||||
 
-## Contest reports
-
-### Weekly contests
+## Contest notes
 
 |  👻 |  👅 |  🏁 |  🌈 |  💎 | 
 |:---:|:---:|:---:|:---:|:---:|
-|[Weekly 182](https://kuanhungchen.github.io/2020/04/01/LeetCode-Weekly-Contest-182-md/)|[Weekly 181](https://kuanhungchen.github.io/2020/04/03/LeetCode-Weekly-Contest-181/)|[Weekly 178](https://kuanhungchen.github.io/2020/03/02/LeetCode-Weekly-Contest-178/)|Coming soon|Coming soon|
-
-### Biweekly contests
-
-|  👻 |  👅 |  🏁 |  🌈 |  💎 | 
-|:---:|:---:|:---:|:---:|:---:|
-|Coming soon|Coming soon|Coming soon|Coming soon|Coming soon|
+|[Biweekly 23](https://kuanhungchen.github.io/2020/04/05/LeetCode-Biweekly-Contest-23/)|[Weekly 182](https://kuanhungchen.github.io/2020/04/01/LeetCode-Weekly-Contest-182-md/)|[Weekly 181](https://kuanhungchen.github.io/2020/04/03/LeetCode-Weekly-Contest-181/)|[Weekly 178](https://kuanhungchen.github.io/2020/03/02/LeetCode-Weekly-Contest-178/)|Coming soon|
 
 ## Notes
 
