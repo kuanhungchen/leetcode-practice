@@ -133,6 +133,7 @@
 | 1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[create-target-array-in-the-given-order.py](./Python/create-target-array-in-the-given-order.py)| Easy | |
 | 1394|[Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)|[find-lucky-integer-in-an-array.py](./Python/find-lucky-integer-in-an-array.py)| Easy | |
 | 1395|[Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)|[count-number-of-teams](./Python/count-number-of-teams.py)| Medium | |
+| 1399|[Count Largest Group](https://leetcode.com/problems/count-largest-group/)|[count-largest-group.py](./Python/count-largest-group.py)| Easy | |
 
 ## Dynamic Programming
 
@@ -156,6 +157,7 @@
 | 1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[greatest-sum-divisible-by-three.py](./Python/greatest-sum-divisible-by-three.py)| Medium | |
 | 1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[linked-list-in-binary-tree.py](./Python/linked-list-in-binary-tree.py)| Medium | |
 | 1359|[Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)|[count-all-valid-pickup-and-delivery-options.py](./Python/count-all-valid-pickup-and-delivery-options.py)| Hard | |
+| 1402|[Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)|[reducing-dishes.py](./Python/reducing-dishes.py)| Hard | |
 
 ## Math
 
@@ -349,13 +351,14 @@
 | 0944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|[delete-columns-to-make-sorted.py](./Python/delete-columns-to-make-sorted.py)| Easy | [zip](./notes/zip.md) |
 | 1005|[Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)|[maximize-sum-of-array-after-k-negations.py](./Python/maximize-sum-of-array-after-k-negations.py)| Easy | |
 | 1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[two-city-scheduling.py](./Python/two-city-scheduling.py)| Easy | |
-| 1046|[Last Stong Weight](https://leetcode.com/problems/last-stone-weight/)|[last-stone-weight.py](./Python/last-stone-weight.py)| Easy | |
+| 1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[last-stone-weight.py](./Python/last-stone-weight.py)| Easy | |
 | 1090|[Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/)|[largest-values-from-labels.py](./Python/largest-values-from-labels.py)| Medium | |
 | 1217|[Play with Chips](https://leetcode.com/problems/play-with-chips/)|[play-with-chips.py](./Python/play-with-chips.py)| Easy | |
 | 1247|[Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/)|[minimum-swaps-to-make-strings-equal.py](./Python/minimum-swaps-to-make-strings-equal.py)| Medium | |
 | 1282|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[group-the-people-given-the-group-size-they-belong-to.py](./Python/group-the-people-given-the-group-size-they-belong-to.py)| Medium | |
 | 1296|[Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)|[divide-array-in-sets-of-k-consecutive-numbers.py](./Python/divide-array-in-sets-of-k-consecutive-numbers.py)| Medium | |
 | 1383|[Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)|[maximum-performance-of-a-team.py](./Python/maximum-performance-of-a-team.py)| Hard | |
+| 1400|[Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/)|[construct-k-palindrome-strings.py](./Python/construct-k-palindrome-strings.py)| Medium | |
 
 ## Two Pointers
 
@@ -529,6 +532,7 @@
 | 0892|[Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)|[surface-area-of-3d-shapes.py](./Python/surface-area-of-3d-shapes.py)| Easy | |
 | 1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[check-if-it-is-a-straight-line.py](./Python/check-if-it-is-a-straight-line.py)| Easy | |
 | 1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[minimum-time-visiting-all-points.py](./Python/minimum-time-visiting-all-points.py)| Easy | |
+| 1401|[Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/)|[circle-and-rectangle-overlapping.py](./Python/circle-and-rectangle-overlapping.py)| Medium | |
 
 ## Line Sweep
 
