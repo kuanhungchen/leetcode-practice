@@ -308,6 +308,7 @@
 | 0841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[keys-and-rooms.py](./Python/keys-and-rooms.py)| Medium | |
 | 0872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[leaf-similar-trees.py](./Python/leaf-similar-trees.py)| Easy | |
 | 0897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[increasing-order-search-tree.py](./Python/increasing-order-search-tree.py)| Easy | |
+| 0980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[unique-paths-iii.py](./Python/unique-paths-iii.py)| Hard | |
 | 1020|[Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)|[number-of-enclaves.py](./Python/number-of-enclaves.py)| Medium | |
 | 1391|[Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/)|[check-of-there-is-a-valid-path-in-a-grid.py](./Python/check-if-there-is-a-valid-path-in-a-grid.py)| Medium | |
 
@@ -420,6 +421,7 @@
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0093|[Restore IP Address](https://leetcode.com/problems/restore-ip-addresses/)|[restore-ip-address.py](./Python/restore-ip-address.py)| Medium | |
 | 0784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[letter-case-permutation.py](./Python/letter-case-permutation.py)| Easy | |
+| 0980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[unique-paths-iii.py](./Python/unique-paths-iii.py)| Hard | |
 | 1286|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[iterator-for-combination.py](./Python/iterator-for-combination.py)| Medium | |
 | 1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/)|[sequential-digits.py](./Python/sequential-digits.py)| Medium | |
 
@@ -483,6 +485,7 @@
 | 0338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[counting-bits.py](./Python/counting-bits.py)| Medium | |
 | 0762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[prime-number-of-set-bits-in-binary-representation.py](./Python/prime-number-of-set-bits-in-binary-representation.py)| Easy | |
 | 0784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[letter-case-permutation.py](./Python/letter-case-permutation.py)| Easy | |
+| 1255|[Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)|[maximum-score-words-formed-by-letters.py](./Python/maximum-score-words-formed-by-letters.py)| Hard | |
 | 1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[convert-binary-number-in-a-linked-list-to-integer.py](./Python/convert-binary-number-in-a-linked-list-to-integer.py)| Easy | |
 | 1297|[Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/)|[maximum-number-of-occurrences-of-a-substring.py](./Python/maximum-number-of-occurrences-of-a-substring.py)| Medium | |
 | 1356|[Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[sort-integers-by-the-number-of-1-bits.py](./Python/sort-integers-by-the-number-of-1-bits.py)| Easy | |
