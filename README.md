@@ -282,6 +282,7 @@
 | 0463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[island-perimeter.py](./Python/island-perimeter.py)| Easy | |
 | 0599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[minimum-index-sum-of-two-lists.py](./Python/minimum-index-sum-of-two-lists.py)| Easy | |
 | 0748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)|[shortest-completing-word.py](./Python/shortest-completing-word.py)| Easy | |
+| 0895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[maximum-frequency-stack.py](./Python/maximum-frequency-stack.py)| Hard | |
 | 0953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[verifying-an-alien-dictionary.py](./Python/verifying-an-alien-dictionary.py)| Easy | |
 | 0970|[Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[powerful-integers.py](./Python/powerful-integers.py)| Easy | |
 | 1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[find-common-characters.py](./Python/find-common-characters)| Easy | |
@@ -410,6 +411,7 @@
 | 0145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[binary-tree-postorder-traversal.py](./Python/binary-tree-postorder-traversal.py)| Hard | |
 | 0402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[remove-k-digits.py](./Python/remove-k-digits.py)| Medium | |
 | 0844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[backspace-string-compare.py](./Python/backspace-string-compare.py)| Easy | |
+| 0895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[maximum-frequency-stack.py](./Python/maximum-frequency-stack.py)| Hard | |
 | 0921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[minimum-add-to-make-parenthess-valid.py](./Python/minimum-add-to-make-parentheses-valid.py)| Medium | |
 | 1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|[reverse-substrings-between-each-pair-of-parentheses.py](./Python/reverse-substrings-between-each-pair-of-parentheses.py)| Medium | |
 | 1209|[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[remove-all-adjacent-duplicates-in-string-ii.py](./Python/remove-all-adjacent-duplicates-in-string-ii.py)| Medium | |
