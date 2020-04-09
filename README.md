@@ -2,7 +2,7 @@
 * Try to solve [leetcode](https://leetcode.com/) problems as many as possible!
 * This repository may contain not only my own solutions but some amazing ones from others.
 * All stuff that I look up during coding may be collected in here also.
-
+ 
 ## Tags
 
 |  👻 |  👅 |  🏁 |  🌈 |  💎 | 
