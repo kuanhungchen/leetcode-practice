@@ -101,6 +101,7 @@
 | 1013|[Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)|[partition-array-into-three-parts-with-equal-sum](./Python/partition-array-into-three-parts-with-equal-sum.py)| Easy | |
 | 1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)|[binary-prefix-divisible-by-5.py](./Python/binary-prefix-divisible-by-5.py)| Easy | |
 | 1051|[Height Checker](https://leetcode.com/problems/height-checker/)|[height-checker.py](./Python/height-checker.py)| Easy | |
+| 1074|[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[number-of-submatrices-that-sum-to-target.py](./Python/number-of-submatrices-that-sum-to-target.py)| Hard | |
 | 1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[duplicate-zeros.py](./Python/duplicate-zeros.py)| Easy | |
 | 1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[relative-sort-array.py](./Python/relative-sort-array.py)| Easy | |
 | 1128|[Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)|[number-of-equivalent-domino-pairs.py](./Python/number-of-equivalent-domino-pairs.py)| Easy | [str-vs-repr](./notes/str-vs-repr.md) |
@@ -152,6 +153,7 @@
 | 0746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[min-cost-climbing-stairs.py](./Python/min-cost-climbing-stairs.py)| Easy | |
 | 1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[divisor-game.py](./Python/divisor-game.py)| Easy | |
 | 1027|[Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/)|[longest-arithmetic-sequence.py](./Python/longest-arithmetic-sequence.py)| Medium | |
+| 1074|[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[number-of-submatrices-that-sum-to-target.py](./Python/number-of-submatrices-that-sum-to-target.py)| Hard | |
 | 1186|[Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/)|[maximum-subarray-sum-with-one-deletion.py](./Python/maximum-subarray-sum-with-one-deletion.py)| Medium | |
 | 1218|[Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)|[longest-arithmetic-subsequence-of-given-difference.py](./Python/longest-arithmetic-subsequence-of-given-difference.py)| Medium | |
 | 1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[greatest-sum-divisible-by-three.py](./Python/greatest-sum-divisible-by-three.py)| Medium | |
@@ -503,6 +505,7 @@
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 1074|[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[number-of-submatrices-that-sum-to-target.py](./Python/number-of-submatrices-that-sum-to-target.py)| Hard | |
 | 1208|[Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)|[get-equal-substrings-within-budget.py](./Python/get-equal-substrings-within-budget.py)| Medium | |
 
 ## Divide and Conquer
