@@ -160,6 +160,8 @@
 | 1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[linked-list-in-binary-tree.py](./Python/linked-list-in-binary-tree.py)| Medium | |
 | 1359|[Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)|[count-all-valid-pickup-and-delivery-options.py](./Python/count-all-valid-pickup-and-delivery-options.py)| Hard | |
 | 1402|[Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)|[reducing-dishes.py](./Python/reducing-dishes.py)| Hard | |
+| 1405|[Longest Happy String](https://leetcode.com/problems/longest-happy-string/)|[longest-happy-string.py](./Python/longest-happy-string.py)| Medium | |
+| 1406|[Stone Game III](https://leetcode.com/problems/stone-game-iii/)|[stone-game-iii.py](./Python/stone-game-iii.py)| Hard | |
 
 ## Math
 
@@ -234,6 +236,7 @@
 | 1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|[increasing-decreasing-string.py](./Python/increasing-decreasing-string.py)| Easy | |
 | 1374|[Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)|[generate-a-string-with-characters-that-have-odd-counts.py](./Python/generate-a-string-with-characters-that-have-odd-counts.py)| Easy | |
 | 1392|[Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)|[longest-happy-prefix.py](./Python/longest-happy-prefix.py)| Hard | |
+| 1404|[Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)|[number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py](./Python/number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py)| Medium | |
 
 ## Tree
 
@@ -251,6 +254,7 @@
 | 0235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[lowest-common-ancestor-of-a-binary-search-tree.py](./Python/lowest-common-ancestor-of-a-binary-search-tree.py)| Easy | |
 | 0257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[binary-tree-paths.py](./Python/binary-tree-paths.py)| Easy | |
 | 0530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/submissions/)|[minimum-absolute-difference-in-bst.py](./Python/minimum-absolute-difference-in-bst.py)| Easy | |
+| 0543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[diameter-of-binary-tree.py](./Python/diameter-of-binary-tree.py)| Easy | |
 | 0559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[maximum-depth-of-n-ary-tree.py](./Python/maximum-depth-of-n-ary-tree.py)| Easy | |
 | 0606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[construct-string-from-binary-tree.py](./Python/construct-string-from-binary-tree.py)| Easy | |
 | 0637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[average-of-levels-in-binary-tree.py](./Python/average-of-levels-in-binary-tree.py)| Easy | |
@@ -283,6 +287,7 @@
 | 0451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[sort-characters-by-frequency.py](./Python/sort-characters-by-frequency.py)| Medium | |
 | 0463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[island-perimeter.py](./Python/island-perimeter.py)| Easy | |
 | 0599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[minimum-index-sum-of-two-lists.py](./Python/minimum-index-sum-of-two-lists.py)| Easy | |
+| 0706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[design-hashmap.py](./Python/design-hashmap.py)| Easy | |
 | 0748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)|[shortest-completing-word.py](./Python/shortest-completing-word.py)| Easy | |
 | 0895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[maximum-frequency-stack.py](./Python/maximum-frequency-stack.py)| Hard | |
 | 0953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[verifying-an-alien-dictionary.py](./Python/verifying-an-alien-dictionary.py)| Easy | |
@@ -363,6 +368,8 @@
 | 1296|[Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)|[divide-array-in-sets-of-k-consecutive-numbers.py](./Python/divide-array-in-sets-of-k-consecutive-numbers.py)| Medium | |
 | 1383|[Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)|[maximum-performance-of-a-team.py](./Python/maximum-performance-of-a-team.py)| Hard | |
 | 1400|[Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/)|[construct-k-palindrome-strings.py](./Python/construct-k-palindrome-strings.py)| Medium | |
+| 1403|[Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)|[minimum-subsequence-in-non-increasing-order.py](./Python/minimum-subsequence-in-non-increasing-order.py)| Easy | |
+| 1405|[Longest Happy String](https://leetcode.com/problems/longest-happy-string/)|[longest-happy-string.py](./Python/longest-happy-string.py)| Medium | |
 
 ## Two Pointers
 
@@ -411,6 +418,7 @@
 | 0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[binary-tree-inorder-traversal.py](./Python/binary-tree-inorder-traversal.py) | Medium | |
 | 0144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[binary-tree-preorder-traversal.py](./Python/binary-tree-preorder-traversal.py)| Medium | |
 | 0145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[binary-tree-postorder-traversal.py](./Python/binary-tree-postorder-traversal.py)| Hard | |
+| 0155|[Min Stack](https://leetcode.com/problems/min-stack/)|[min-stack.py](./Python/min-stack.py)| Easy | |
 | 0402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[remove-k-digits.py](./Python/remove-k-digits.py)| Medium | |
 | 0844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[backspace-string-compare.py](./Python/backspace-string-compare.py)| Easy | |
 | 0895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[maximum-frequency-stack.py](./Python/maximum-frequency-stack.py)| Hard | |
@@ -433,6 +441,8 @@
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0155|[Min Stack](https://leetcode.com/problems/min-stack/)|[min-stack.py](./Python/min-stack.py)| Easy | |
+| 0706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[design-hashmap.py](./Python/design-hashmap.py)| Easy | |
 | 0707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[design-linked-list.py](./Python/design-linked-list.py)| Easy | |
 | 1286|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[iterator-for-combination.py](./Python/iterator-for-combination.py)| Medium | |
 | 1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[product-of-the-last-k-numbers.py](./Python/product-of-the-last-k-numbers.py)| Medium | |
@@ -451,6 +461,7 @@
 | 0234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[palindrome-linked-list.py](./Python/palindrome-linked-list.py)| Easy | |
 | 0445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[add-two-numbers-ii.py](./Python/add-two-numbers-ii.py)| Medium | |
 | 0707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[design-linked-list.py](./Python/design-linked-list.py)| Easy | |
+| 0876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[middle-of-the-linked-list.py](./Python/middle-of-the-linked-list.py)| Easy | |
 | 1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[convert-binary-number-in-a-linked-list-to-integer.py](./Python/convert-binary-number-in-a-linked-list-to-integer.py)| Easy | |
 | 1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[linked-list-in-binary-tree.py](./Python/linked-list-in-binary-tree.py)| Medium | |
 
@@ -478,6 +489,7 @@
 | 1366|[Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/)|[rank-teams-by-votes.py](./Python/rank-teams-by-votes.py)| Medium | |
 | 1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|[increasing-decreasing-string.py](./Python/increasing-decreasing-string.py)| Easy | |
 | 1383|[Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)|[maximum-performance-of-a-team.py](./Python/maximum-performance-of-a-team.py)| Hard | |
+| 1403|[Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)|[minimum-subsequence-in-non-increasing-order.py](./Python/minimum-subsequence-in-non-increasing-order.py)| Easy | |
 
 ## Bit Manipulation
 
@@ -493,6 +505,7 @@
 | 1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[convert-binary-number-in-a-linked-list-to-integer.py](./Python/convert-binary-number-in-a-linked-list-to-integer.py)| Easy | |
 | 1297|[Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/)|[maximum-number-of-occurrences-of-a-substring.py](./Python/maximum-number-of-occurrences-of-a-substring.py)| Medium | |
 | 1356|[Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[sort-integers-by-the-number-of-1-bits.py](./Python/sort-integers-by-the-number-of-1-bits.py)| Easy | |
+| 1404|[Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)|[number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py](./Python/number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py)| Medium | |
 
 ## Heap
 
