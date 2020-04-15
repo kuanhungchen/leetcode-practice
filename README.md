@@ -135,6 +135,7 @@
 | 1394|[Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)|[find-lucky-integer-in-an-array.py](./Python/find-lucky-integer-in-an-array.py)| Easy | |
 | 1395|[Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)|[count-number-of-teams](./Python/count-number-of-teams.py)| Medium | |
 | 1399|[Count Largest Group](https://leetcode.com/problems/count-largest-group/)|[count-largest-group.py](./Python/count-largest-group.py)| Easy | |
+| 1409|[Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/)|[queries-on-a-permutation-with-key.py](./Python/queries-on-a-permutation-with-key.py)| Medium | |
 
 ## Dynamic Programming
 
@@ -162,6 +163,7 @@
 | 1402|[Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)|[reducing-dishes.py](./Python/reducing-dishes.py)| Hard | |
 | 1405|[Longest Happy String](https://leetcode.com/problems/longest-happy-string/)|[longest-happy-string.py](./Python/longest-happy-string.py)| Medium | |
 | 1406|[Stone Game III](https://leetcode.com/problems/stone-game-iii/)|[stone-game-iii.py](./Python/stone-game-iii.py)| Hard | |
+| 1411|[Number of Ways to Paint N x 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/)|[number-of-ways-to-paint-n-3-grid.py](./Python/number-of-ways-to-paint-n-3-grid.py)| Hard | |
 
 ## Math
 
@@ -237,6 +239,7 @@
 | 1374|[Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)|[generate-a-string-with-characters-that-have-odd-counts.py](./Python/generate-a-string-with-characters-that-have-odd-counts.py)| Easy | |
 | 1392|[Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)|[longest-happy-prefix.py](./Python/longest-happy-prefix.py)| Hard | |
 | 1404|[Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)|[number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py](./Python/number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py)| Medium | |
+| 1410|[HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/)|[html-entity-parser.py](./Python/html-entity-parser.py)| Medium | |
 
 ## Tree
 
@@ -286,6 +289,7 @@
 | 0447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)|[number-of-boomerangs.py](./Python/number-of-boomerangs.py)| Easy | |
 | 0451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[sort-characters-by-frequency.py](./Python/sort-characters-by-frequency.py)| Medium | |
 | 0463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[island-perimeter.py](./Python/island-perimeter.py)| Easy | |
+| 0525|[Continuous Array](https://leetcode.com/problems/contiguous-array/)|[continuous-array.py](./Python/continuous-array.py)| Medium | |
 | 0599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[minimum-index-sum-of-two-lists.py](./Python/minimum-index-sum-of-two-lists.py)| Easy | |
 | 0706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[design-hashmap.py](./Python/design-hashmap.py)| Easy | |
 | 0748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)|[shortest-completing-word.py](./Python/shortest-completing-word.py)| Easy | |
@@ -426,6 +430,7 @@
 | 1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|[reverse-substrings-between-each-pair-of-parentheses.py](./Python/reverse-substrings-between-each-pair-of-parentheses.py)| Medium | |
 | 1209|[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[remove-all-adjacent-duplicates-in-string-ii.py](./Python/remove-all-adjacent-duplicates-in-string-ii.py)| Medium | |
 | 1381|[Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)|[design-a-stack-with-increment-operation.py](./Python/design-a-stack-with-increment-operation.py)| Medium | |
+| 1410|[HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/)|[html-entity-parser.py](./Python/html-entity-parser.py)| Medium | |
 
 ## Backtracking
 
@@ -512,7 +517,7 @@
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[sort-characters-by-frequency.py](./Python/sort-characters-by-frequency.py)| Medium | |
-| 1046|[Last Stong Weight](https://leetcode.com/problems/last-stone-weight/)|[last-stone-weight.py](./Python/last-stone-weight.py)| Easy | |
+| 1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[last-stone-weight.py](./Python/last-stone-weight.py)| Easy | |
 
 ## Sliding Window
 
