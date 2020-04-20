@@ -34,6 +34,7 @@
 | 0001|[Two Sum](https://leetcode.com/problems/two-sum/)|[two-sum.py](./Python/two-sum.py)| Easy | |
 | 0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[remove-duplicates-from-sorted-array.py](./Python/remove-duplicates-from-sorted-array.py)| Easy | |
 | 0027|[Remove Element](https://leetcode.com/problems/remove-element/)|[remove-element.py](./Python/remove-element.py)| Easy | |
+| 0033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[search-in-rotated-sorted-array.py](./Python/search-in-rotated-sorted-array.py)| Medium | |
 | 0034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[find-first-and-last-position-of-element-in-sorted-array.py](./Python/find-first-and-last-position-of-element-in-sorted-array.py)| Medium | |
 | 0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[search-insert-position.py](./Python/search-insert-position.py)| Easy | |
 | 0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[maximum-subarray.py](./Python/maximum-subarray.py)| Easy | |
@@ -136,6 +137,8 @@
 | 1395|[Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)|[count-number-of-teams](./Python/count-number-of-teams.py)| Medium | |
 | 1399|[Count Largest Group](https://leetcode.com/problems/count-largest-group/)|[count-largest-group.py](./Python/count-largest-group.py)| Easy | |
 | 1409|[Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/)|[queries-on-a-permutation-with-key.py](./Python/queries-on-a-permutation-with-key.py)| Medium | |
+| 1413|[Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[minimum-value-to-get-positive-step-by-step-sum.py](./Python/minimum-value-to-get-positive-step-by-step-sum.py)| Easy | |
+| 1414|[Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/)|[find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k.py](./Python/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k.py)| Medium | |
 
 ## Dynamic Programming
 
@@ -240,6 +243,7 @@
 | 1392|[Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)|[longest-happy-prefix.py](./Python/longest-happy-prefix.py)| Hard | |
 | 1404|[Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)|[number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py](./Python/number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py)| Medium | |
 | 1410|[HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/)|[html-entity-parser.py](./Python/html-entity-parser.py)| Medium | |
+| 1417|[Reformat The String](https://leetcode.com/problems/reformat-the-string/)|[reformat-the-string.py](./Python/reformat-the-string.py)| Easy | |
 
 ## Tree
 
@@ -304,6 +308,7 @@
 | 1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[maximum-number-of-balloons.py](./Python/maximum-number-of-balloons.py)| Easy | |
 | 1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[unique-number-of-occurrences.py](./Python/unique-number-of-occurrences.py)| Easy | |
 | 1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[how-many-numbers-are-smaller-than-the-current-number.py](./Python/how-many-numbers-are-smaller-than-the-current-number.py)| Easy | |
+| 1418|[Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/)|[display-table-of-food-orders-in-a-restaurant.py](./Python/display-table-of-food-orders-in-a-restaurant.py)| Medium | |
 
 ## Depth-first Search
 
@@ -328,6 +333,7 @@
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[search-in-rotated-sorted-array.py](./Python/search-in-rotated-sorted-array.py)| Medium | |
 | 0034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[find-first-and-last-position-of-element-in-sorted-array.py]| Medium | |
 | 0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[sqrtx.py](./Python/sqrtx.py)| Easy | |
 | 0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[search-insert-position.py](./Python/search-insert-position.py)| Easy | |
@@ -374,6 +380,7 @@
 | 1400|[Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/)|[construct-k-palindrome-strings.py](./Python/construct-k-palindrome-strings.py)| Medium | |
 | 1403|[Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)|[minimum-subsequence-in-non-increasing-order.py](./Python/minimum-subsequence-in-non-increasing-order.py)| Easy | |
 | 1405|[Longest Happy String](https://leetcode.com/problems/longest-happy-string/)|[longest-happy-string.py](./Python/longest-happy-string.py)| Medium | |
+| 1414|[Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/)|[find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k.py](./Python/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k.py)| Medium | |
 
 ## Two Pointers
 
@@ -441,6 +448,7 @@
 | 0980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[unique-paths-iii.py](./Python/unique-paths-iii.py)| Hard | |
 | 1286|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[iterator-for-combination.py](./Python/iterator-for-combination.py)| Medium | |
 | 1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/)|[sequential-digits.py](./Python/sequential-digits.py)| Medium | |
+| 1415|[The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/)|[the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py](./Python/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py)| Medium | |
 
 ## Design
 
