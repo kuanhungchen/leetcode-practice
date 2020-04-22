@@ -270,6 +270,7 @@
 | 0897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[increasing-order-search-tree.py](./Python/increasing-order-search-tree.py)| Easy | |
 | 0958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[check-completeness-of-a-binary-tree.py](./Python/check-completeness-of-a-binary-tree.py)| Medium | |
 | 0965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[univalued-binary-tree.py](./Python/univalued-binary-tree.py)| Easy | |
+| 1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[construct-binary-search-tree-from-preorder-traversal.py](./Python/construct-binary-search-tree-from-preorder-traversal.py)| Medium | |
 | 1214|[Two Sum BSTs](https://leetcode.com/contest/biweekly-contest-10/problems/two-sum-bsts/)|[two-sum-bsts.py](./Python/two-sum-bsts.py)| Medium | not released yet |
 | 1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[linked-list-in-binary-tree.py](./Python/linked-list-in-binary-tree.py)| Medium | |
 
@@ -434,6 +435,7 @@
 | 0844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[backspace-string-compare.py](./Python/backspace-string-compare.py)| Easy | |
 | 0895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[maximum-frequency-stack.py](./Python/maximum-frequency-stack.py)| Hard | |
 | 0921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[minimum-add-to-make-parenthess-valid.py](./Python/minimum-add-to-make-parentheses-valid.py)| Medium | |
+| 1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[remove-all-adjacent-duplicates-in-string.py](./Python/remove-all-adjacent-duplicates-in-string.py)| Easy | |
 | 1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|[reverse-substrings-between-each-pair-of-parentheses.py](./Python/reverse-substrings-between-each-pair-of-parentheses.py)| Medium | |
 | 1209|[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[remove-all-adjacent-duplicates-in-string-ii.py](./Python/remove-all-adjacent-duplicates-in-string-ii.py)| Medium | |
 | 1381|[Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)|[design-a-stack-with-increment-operation.py](./Python/design-a-stack-with-increment-operation.py)| Medium | |
