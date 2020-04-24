@@ -66,6 +66,7 @@
 | 0485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[max-consecutive-ones.py](./Python/max-consecutive-ones.py)| Easy | |
 | 0509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[fibonacci-number.py](./Python/fibonacci-number.py)| Easy | |
 | 0532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[k-diff-pairs-in-an-array.py](./Python/k-diff-pairs-in-an-array.py)| Easy | |
+| 0560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[subarray-sum-equals-k.py](./Python/subarray-sum-equals-k.py)| Medium | hash table |
 | 0561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[array-partition-i.py](./Python/array-partition-i.py)| Easy | |
 | 0566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[reshape-the-matrix.py](./Python/reshape-the-matrix.py)| Easy | |
 | 0605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[can-place-flowers.py](./Python/can-place-flowers.py)| Easy | |
@@ -295,6 +296,7 @@
 | 0451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[sort-characters-by-frequency.py](./Python/sort-characters-by-frequency.py)| Medium | |
 | 0463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[island-perimeter.py](./Python/island-perimeter.py)| Easy | |
 | 0525|[Continuous Array](https://leetcode.com/problems/contiguous-array/)|[continuous-array.py](./Python/continuous-array.py)| Medium | |
+| 0560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[subarray-sum-equals-k.py](./Python/subarray-sum-equals-k.py)| Medium | hash table |
 | 0599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[minimum-index-sum-of-two-lists.py](./Python/minimum-index-sum-of-two-lists.py)| Easy | |
 | 0706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[design-hashmap.py](./Python/design-hashmap.py)| Easy | |
 | 0748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)|[shortest-completing-word.py](./Python/shortest-completing-word.py)| Easy | |
@@ -456,6 +458,7 @@
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[lru-cache.py](./Python/lru-cache.py)| Medium | linked list |
 | 0155|[Min Stack](https://leetcode.com/problems/min-stack/)|[min-stack.py](./Python/min-stack.py)| Easy | |
 | 0706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[design-hashmap.py](./Python/design-hashmap.py)| Easy | |
 | 0707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[design-linked-list.py](./Python/design-linked-list.py)| Easy | |
@@ -512,6 +515,7 @@
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0136|[Single Number](https://leetcode.com/problems/single-number/)|[single-number.py](./Python/single-number.py) | Easy | |
 | 0169|[Majority Element](https://leetcode.com/problems/majority-element/)|[majority-element.py](./Python/majority-element.py)| Easy | |
+| 0201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[bitwise-and-of-numbers-range.py](./Python/bitwise-and-of-numbers-range.py)| Medium | |
 | 0268|[Missing Number](https://leetcode.com/problems/missing-number)|[missing-number.py](./Python/missing-number.py)| Easy | |
 | 0338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[counting-bits.py](./Python/counting-bits.py)| Medium | |
 | 0762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[prime-number-of-set-bits-in-binary-representation.py](./Python/prime-number-of-set-bits-in-binary-representation.py)| Easy | |
