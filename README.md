@@ -19,7 +19,6 @@
 |  👻 |  👅 |  🏁 |  🌈 |  💎 | 
 |:---:|:---:|:---:|:---:|:---:|
 |[Weekly 184](https://kuanhungchen.github.io/2020/04/25/LeetCode-Weekly-Contest-184/)|[Biweekly 23](https://kuanhungchen.github.io/2020/04/05/LeetCode-Biweekly-Contest-23/)|[Weekly 182](https://kuanhungchen.github.io/2020/04/01/LeetCode-Weekly-Contest-182/)|[Weekly 181](https://kuanhungchen.github.io/2020/04/03/LeetCode-Weekly-Contest-181/)|[Weekly 178](https://kuanhungchen.github.io/2020/03/02/LeetCode-Weekly-Contest-178/)|
-|Coming soon|Coming soon|Coming soon|Coming soon|Coming soon|
 
 ## Notes
 
