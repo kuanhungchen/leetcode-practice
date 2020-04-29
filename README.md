@@ -15,6 +15,7 @@
 |[Binary Search Tree](#binary-search-tree)|[No category](#no-category)||||
 
 ## Contest notes
+- Global Ranking: 6811/93877 (updated: 04/29/2020)
 
 |  👻 |  👅 |  🏁 |  🌈 |  💎 | 
 |:---:|:---:|:---:|:---:|:---:|
