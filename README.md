@@ -39,6 +39,7 @@
 | 0034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[find-first-and-last-position-of-element-in-sorted-array.py](./Python/find-first-and-last-position-of-element-in-sorted-array.py)| Medium | |
 | 0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[search-insert-position.py](./Python/search-insert-position.py)| Easy | |
 | 0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[maximum-subarray.py](./Python/maximum-subarray.py)| Easy | |
+| 0055|[Jump Game](https://leetcode.com/problems/jump-game/)|[jump-game.py](./Python/jump-game.py)| Medium | | 
 | 0056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[merge-intervals.py](./Python/merge-intervals.py)| Medium | |
 | 0062|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[unique-paths.py](./Python/unique-paths.py)| Medium | |
 | 0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[unique-paths-ii.py](./Python/unique-paths-ii.py)| Medium | |
@@ -141,6 +142,8 @@
 | 1409|[Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/)|[queries-on-a-permutation-with-key.py](./Python/queries-on-a-permutation-with-key.py)| Medium | |
 | 1413|[Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[minimum-value-to-get-positive-step-by-step-sum.py](./Python/minimum-value-to-get-positive-step-by-step-sum.py)| Easy | |
 | 1414|[Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/)|[find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k.py](./Python/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k.py)| Medium | |
+| 1423|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[maximum-points-you-can-obtain-from-cards.py](./Python/maximum-points-you-can-obtain-from-cards.py)| Medium | |
+| 1424|[Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/)|[diagonal-traverse-ii.py](./Python/diagonal-traverese-ii.py)| Medium | |
 
 ## Dynamic Programming
 
@@ -151,6 +154,7 @@
 | 0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[unique-paths-ii.py](./Python/unique-paths-ii.py)| Medium | |
 | 0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[best-time-to-buy-and-sell-stock.py](./Python/best-time-to-buy-and-sell-stock.py)| Easy | |
 | 0198|[House Robber](https://leetcode.com/problems/house-robber/)|[house-robber.py](./Python/house-robber.py)| Easy | |
+| 0221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[maximal-square.py](./Python/maximal-square.py)| Medium | | 
 | 0303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[range-sum-query-immutable.py](./Python/range-sum-query-immutable.py)| Easy | |
 | 0338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[counting-bits.py](./Python/counting-bits.py)| Medium | |
 | 0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[is-subsequence.py](./Python/is-subsequence.py)| Easy | |
@@ -160,6 +164,7 @@
 | 1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[divisor-game.py](./Python/divisor-game.py)| Easy | |
 | 1027|[Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/)|[longest-arithmetic-sequence.py](./Python/longest-arithmetic-sequence.py)| Medium | |
 | 1074|[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[number-of-submatrices-that-sum-to-target.py](./Python/number-of-submatrices-that-sum-to-target.py)| Hard | |
+| 1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[longest-common-subsequence.py](./Python/longest-common-subsequence.py)| Medium | |
 | 1186|[Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/)|[maximum-subarray-sum-with-one-deletion.py](./Python/maximum-subarray-sum-with-one-deletion.py)| Medium | |
 | 1218|[Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)|[longest-arithmetic-subsequence-of-given-difference.py](./Python/longest-arithmetic-subsequence-of-given-difference.py)| Medium | |
 | 1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[greatest-sum-divisible-by-three.py](./Python/greatest-sum-divisible-by-three.py)| Medium | |
@@ -169,6 +174,8 @@
 | 1405|[Longest Happy String](https://leetcode.com/problems/longest-happy-string/)|[longest-happy-string.py](./Python/longest-happy-string.py)| Medium | |
 | 1406|[Stone Game III](https://leetcode.com/problems/stone-game-iii/)|[stone-game-iii.py](./Python/stone-game-iii.py)| Hard | |
 | 1411|[Number of Ways to Paint N x 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/)|[number-of-ways-to-paint-n-3-grid.py](./Python/number-of-ways-to-paint-n-3-grid.py)| Hard | |
+| 1423|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[maximum-points-you-can-obtain-from-cards.py](./Python/maximum-points-you-can-obtain-from-cards.py)| Medium | |
+| 1424|[Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/)|[diagonal-traverse-ii.py](./Python/diagonal-traverese-ii.py)| Medium | |
 
 ## Math
 
@@ -244,8 +251,10 @@
 | 1374|[Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)|[generate-a-string-with-characters-that-have-odd-counts.py](./Python/generate-a-string-with-characters-that-have-odd-counts.py)| Easy | |
 | 1392|[Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)|[longest-happy-prefix.py](./Python/longest-happy-prefix.py)| Hard | |
 | 1404|[Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)|[number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py](./Python/number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py)| Medium | |
+| 1408|[String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)|[string-matching-in-an-array.py](./Python/string-matching-in-an-array.py) | Easy | |
 | 1410|[HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/)|[html-entity-parser.py](./Python/html-entity-parser.py)| Medium | |
 | 1417|[Reformat The String](https://leetcode.com/problems/reformat-the-string/)|[reformat-the-string.py](./Python/reformat-the-string.py)| Easy | |
+| 1422|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)|[maximum-score-after-splitting-a-string.py](./Python/maximum-score-after-splitting-a-string.py)| Easy | |
 
 ## Tree
 
@@ -363,6 +372,7 @@
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0055|[Jump Game](https://leetcode.com/problems/jump-game/)|[jump-game.py](./Python/jump-game.py)| Medium | |
 | 0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[best-time-to-buy-and-sell-stock-ii.py](./Python/best-time-to-buy-and-sell-stock-ii.py)| Easy | |
 | 0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[is-subsequence.py](./Python/is-subsequence.py)| Easy | |
 | 0402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[remove-k-digits.py](./Python/remove-k-digits.py)| Medium | |
@@ -509,6 +519,7 @@
 | 1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|[increasing-decreasing-string.py](./Python/increasing-decreasing-string.py)| Easy | |
 | 1383|[Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)|[maximum-performance-of-a-team.py](./Python/maximum-performance-of-a-team.py)| Hard | |
 | 1403|[Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)|[minimum-subsequence-in-non-increasing-order.py](./Python/minimum-subsequence-in-non-increasing-order.py)| Easy | |
+| 1424|[Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/)|[diagonal-traverse-ii.py](./Python/diagonal-traverese-ii.py)| Medium | |
 
 ## Bit Manipulation
 
@@ -540,6 +551,7 @@
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 1074|[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[number-of-submatrices-that-sum-to-target.py](./Python/number-of-submatrices-that-sum-to-target.py)| Hard | |
 | 1208|[Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)|[get-equal-substrings-within-budget.py](./Python/get-equal-substrings-within-budget.py)| Medium | |
+| 1423|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[maximum-points-you-can-obtain-from-cards.py](./Python/maximum-points-you-can-obtain-from-cards.py)| Medium | |
 
 ## Divide and Conquer
 
