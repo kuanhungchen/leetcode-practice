@@ -144,6 +144,9 @@
 | 1414|[Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/)|[find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k.py](./Python/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k.py)| Medium | |
 | 1423|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[maximum-points-you-can-obtain-from-cards.py](./Python/maximum-points-you-can-obtain-from-cards.py)| Medium | |
 | 1424|[Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/)|[diagonal-traverse-ii.py](./Python/diagonal-traverese-ii.py)| Medium | |
+| 1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[kids-with-the-greatest-number-of-candies.py](./Python/kids-with-the-greatest-number-of-candies.py)| Easy | |
+| 1437|[Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)|[check-if-all-1s-are-at-least-length-k-places-away](./Python/check-if-all-1s-are-at-least-length-k-places-away.py)| Medium | Sliding Window |
+| 1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|[longest-continuous-subarray-with-absolute-diss-less-than-or-equal-to-limit.py](./Python/longest-continuous-subarray-with-absolute-diss-less-than-or-equal-to-limit.py)| Medium | MinMaxQueue |
 
 ## Dynamic Programming
 
@@ -255,6 +258,9 @@
 | 1410|[HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/)|[html-entity-parser.py](./Python/html-entity-parser.py)| Medium | |
 | 1417|[Reformat The String](https://leetcode.com/problems/reformat-the-string/)|[reformat-the-string.py](./Python/reformat-the-string.py)| Easy | |
 | 1422|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)|[maximum-score-after-splitting-a-string.py](./Python/maximum-score-after-splitting-a-string.py)| Easy | |
+| 1432|[Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/)|[max-difference-you-can-get-from-changing-an-integer.py](./Python/max-difference-you-can-get-from-changing-an-integer.py)| Medium | |
+| 1433|[Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/)|[check-if-a-string-can-break-another-string.py](./Python/check-if-a-string-can-break-another-string.py)| Medium | Stack |
+| 1436|[Destination City](https://leetcode.com/problems/destination-city/)|[destination-city.py](./Python/destination-city.py)| Easy | Hash Table |
 
 ## Tree
 
@@ -310,6 +316,7 @@
 | 0599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[minimum-index-sum-of-two-lists.py](./Python/minimum-index-sum-of-two-lists.py)| Easy | |
 | 0706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[design-hashmap.py](./Python/design-hashmap.py)| Easy | |
 | 0748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)|[shortest-completing-word.py](./Python/shortest-completing-word.py)| Easy | |
+| 0771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[jewels-and-stones.py](./Python/jewels-and-stones.py)| Easy | |
 | 0895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[maximum-frequency-stack.py](./Python/maximum-frequency-stack.py)| Hard | |
 | 0953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[verifying-an-alien-dictionary.py](./Python/verifying-an-alien-dictionary.py)| Easy | |
 | 0970|[Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[powerful-integers.py](./Python/powerful-integers.py)| Easy | |
@@ -395,6 +402,7 @@
 | 1403|[Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)|[minimum-subsequence-in-non-increasing-order.py](./Python/minimum-subsequence-in-non-increasing-order.py)| Easy | |
 | 1405|[Longest Happy String](https://leetcode.com/problems/longest-happy-string/)|[longest-happy-string.py](./Python/longest-happy-string.py)| Medium | |
 | 1414|[Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/)|[find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k.py](./Python/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k.py)| Medium | |
+| 1433|[Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/)|[check-if-a-string-can-break-another-string.py](./Python/check-if-a-string-can-break-another-string.py)| Medium | Stack |
 
 ## Two Pointers
 
@@ -525,11 +533,12 @@
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
-| 0136|[Single Number](https://leetcode.com/problems/single-number/)|[single-number.py](./Python/single-number.py) | Easy | |
+| 0136|[Single Number](https://leetcode.com/problems/single-number/)|[single-number.py](./Python/single-number.py)| Easy | |
 | 0169|[Majority Element](https://leetcode.com/problems/majority-element/)|[majority-element.py](./Python/majority-element.py)| Easy | |
 | 0201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[bitwise-and-of-numbers-range.py](./Python/bitwise-and-of-numbers-range.py)| Medium | |
 | 0268|[Missing Number](https://leetcode.com/problems/missing-number)|[missing-number.py](./Python/missing-number.py)| Easy | |
 | 0338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[counting-bits.py](./Python/counting-bits.py)| Medium | |
+| 0476|[Number Complement](https://leetcode.com/problems/number-complement/)|[number-complement.py](./Python/number-complement.py)| Easy | |
 | 0762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[prime-number-of-set-bits-in-binary-representation.py](./Python/prime-number-of-set-bits-in-binary-representation.py)| Easy | |
 | 0784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[letter-case-permutation.py](./Python/letter-case-permutation.py)| Easy | |
 | 1255|[Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)|[maximum-score-words-formed-by-letters.py](./Python/maximum-score-words-formed-by-letters.py)| Hard | |
@@ -552,6 +561,7 @@
 | 1074|[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[number-of-submatrices-that-sum-to-target.py](./Python/number-of-submatrices-that-sum-to-target.py)| Hard | |
 | 1208|[Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)|[get-equal-substrings-within-budget.py](./Python/get-equal-substrings-within-budget.py)| Medium | |
 | 1423|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[maximum-points-you-can-obtain-from-cards.py](./Python/maximum-points-you-can-obtain-from-cards.py)| Medium | |
+| 1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|[longest-continuous-subarray-with-absolute-diss-less-than-or-equal-to-limit.py](./Python/longest-continuous-subarray-with-absolute-diss-less-than-or-equal-to-limit.py)| Medium | MinMaxQueue |
 
 ## Divide and Conquer
 
