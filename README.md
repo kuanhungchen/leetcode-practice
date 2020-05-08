@@ -121,6 +121,7 @@
 | 1222|[Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/)|[queens-that-can-attack-the-king.py](./Python/queens-that-can-attack-the-king.py)| Medium | |
 | 1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[check-if-it-is-a-straight-line.py](./Python/check-if-it-is-a-straight-line.py)| Easy | |
 | 1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)|[remove-sub-folders-from-the-filesystem.py](./Python/remove-sub-folders-from-the-filesystem.py)| Medium | |
+| 1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)|[cells-with-odd-values-in-a-matrix.py](./Python/cells-with-odd-values-in-a-matrix.py)| Easy | |
 | 1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[minimum-time-visiting-all-points.py](./Python/minimum-time-visiting-all-points.py)| Easy | |
 | 1267|[Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)|[count-servers-that-communicate.py](./Python/count-servers-that-communicate.py)| Medium | |
 | 1275|[Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)|[find-winner-on-a-tic-tac-toe-game.py](./Python/find-winner-on-a-tic-tac-toe-game.py)| Easy | |
@@ -209,6 +210,7 @@
 | 1217|[Play with Chips](https://leetcode.com/problems/play-with-chips/)|[play-with-chips.py](./Python/play-with-chips.py)| Easy | |
 | 1218|[Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)|[longest-arithmetic-subsequence-of-given-difference.py](./Python/longest-arithmetic-subsequence-of-given-difference.py)| Medium | |
 | 1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[check-if-it-is-a-straight-line.py](./Python/check-if-it-is-a-straight-line.py)| Easy | |
+| 1253|[Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/)|[reconstruct-a-2-row-binary-matrix.py](./Python/reconstruct-a-2-row-binary-matrix.py)| Medium | |
 | 1271|[Hexspeak](https://leetcode.com/problems/hexspeak/)|[hexspeak.py](./Python/hexspeak.py)| Easy | |
 | 1272|[Remove Interval](https://leetcode.com/problems/remove-interval/)|[remove-interval.py](./Python/remove-interval.py)| Medium | |
 | 1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[subtract-the-product-and-sum-of-digits-of-an-integers.py](./Python/subtract-the-product-and-sum-of-digits-of-an-integer.py)| Easy | |
@@ -348,6 +350,7 @@
 | 0897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[increasing-order-search-tree.py](./Python/increasing-order-search-tree.py)| Easy | |
 | 0980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[unique-paths-iii.py](./Python/unique-paths-iii.py)| Hard | |
 | 1020|[Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)|[number-of-enclaves.py](./Python/number-of-enclaves.py)| Medium | |
+| 1254|[Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)|[number-of-closed-islands.py](./Python/number-of-closed-islands.py)| Medium | |
 | 1391|[Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/)|[check-of-there-is-a-valid-path-in-a-grid.py](./Python/check-if-there-is-a-valid-path-in-a-grid.py)| Medium | |
 
 ## Binary Search
@@ -396,6 +399,7 @@
 | 1090|[Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/)|[largest-values-from-labels.py](./Python/largest-values-from-labels.py)| Medium | |
 | 1217|[Play with Chips](https://leetcode.com/problems/play-with-chips/)|[play-with-chips.py](./Python/play-with-chips.py)| Easy | |
 | 1247|[Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/)|[minimum-swaps-to-make-strings-equal.py](./Python/minimum-swaps-to-make-strings-equal.py)| Medium | |
+| 1253|[Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/)|[reconstruct-a-2-row-binary-matrix.py](./Python/reconstruct-a-2-row-binary-matrix.py)| Medium | |
 | 1282|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[group-the-people-given-the-group-size-they-belong-to.py](./Python/group-the-people-given-the-group-size-they-belong-to.py)| Medium | |
 | 1296|[Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)|[divide-array-in-sets-of-k-consecutive-numbers.py](./Python/divide-array-in-sets-of-k-consecutive-numbers.py)| Medium | |
 | 1383|[Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)|[maximum-performance-of-a-team.py](./Python/maximum-performance-of-a-team.py)| Hard | |
