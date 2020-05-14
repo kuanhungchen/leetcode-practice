@@ -16,7 +16,7 @@
 
 ## Contest notes
 - Global Ranking: 5080/97698 (updated: 05/13/2020)
-- Taiwan Ranking: 140/1172 (updated: 05/11/2020)
+- Taiwan Ranking: 121/1172 (updated: 05/14/2020)
 
 |  👻 |  👅 |  🏁 |  🌈 |  💎 | 
 |:---:|:---:|:---:|:---:|:---:|
