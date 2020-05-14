@@ -28,6 +28,7 @@
 * [collections](./notes/collections.md)
 * [str-vs-repr](./notes/str-vs-repr.md)
 * [zip](./notes/zip.md)
+* [heapq](./notes/heapq.md)
 
 ## Array
 
