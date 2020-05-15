@@ -92,6 +92,7 @@
 | 0905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[sort-array-by-parity.py](./Python/sort-array-by-parity.py)| Easy | |
 | 0914|[X of A Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)|[x-of-a-kind-in-a-deck-of-cards.py](./Python/x-of-a-kind-in-a-deck-of-cards.py)| Easy | |
 | 0915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)|[partition-array-into-disjoint-intervals.py](./Python/partition-array-into-disjoint-intervals.py)| Medium | |
+| 0918|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[maximum-sum-circular-subarray.py](./Python/maximum-sum-circular-subarray.py)| Medium | |
 | 0922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[sort-array-by-parity-ii.py](./Python/sort-array-by-parity-ii.py)| Easy | |
 | 0926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[flip-string-to-monotone-increasing.py](./Python/flip-string-to-monotone-increasing.py)| Medium | |
 | 0941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[valid-mountain-array.py](./Python/valid-mountain-array.py)| Easy | |
@@ -493,6 +494,7 @@
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[lru-cache.py](./Python/lru-cache.py)| Medium | linked list |
 | 0155|[Min Stack](https://leetcode.com/problems/min-stack/)|[min-stack.py](./Python/min-stack.py)| Easy | |
+| 0208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[implement-trie-prefix-tree.py](./Python/implement-trie-prefix-tree.py)| Medium | |
 | 0706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[design-hashmap.py](./Python/design-hashmap.py)| Easy | |
 | 0707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[design-linked-list.py](./Python/design-linked-list.py)| Easy | |
 | 1286|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[iterator-for-combination.py](./Python/iterator-for-combination.py)| Medium | |
@@ -506,7 +508,8 @@
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[remove-nth-node-from-end-of-list.py](./Python/remove-nth-node-from-end-of-list.py)| Medium | |
-| 0082|[Remove-Duplicates-from-Sorted-List-II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[remove-duplicates-from-sorted-list-ii.py](./Python/remove-duplicates-from-sorted-list-ii.py)| Medium | |
+| 0082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[remove-duplicates-from-sorted-list-ii.py](./Python/remove-duplicates-from-sorted-list-ii.py)| Medium | | 
+| 0083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[remove-duplicates-from-sorted-list.py](./Python/remove-duplicates-from-sorted-list.py)| Easy | |
 | 0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[linked-list-cycle.py](./Python/linked-list-cycle.py)| Easy | |
 | 0203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[remove-linked-list-elements.py](./Python/remove-linked-list-elements.py)| Easy | |
 | 0234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[palindrome-linked-list.py](./Python/palindrome-linked-list.py)| Easy | |
@@ -587,10 +590,18 @@
 | 0169|[Majority Element](https://leetcode.com/problems/majority-element/)|[majority-element.py](./Python/majority-element.py)| Easy | |
 | 0973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[k-closest-points-to-origin.py](./Python/k-closest-points-to-origin.py)| Medium | |
 
+## Trie
+
+|  #  | Problem           |  Solution       | Difficulty    | Notes | 
+|:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[implement-trie-prefix-tree.py](./Python/implement-trie-prefix-tree.py)| Medium | |
+| 0720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)|[longest-word-in-dictionary.py](./Python/longest-word-in-dictionary.py)| Easy | |
+
 ## Recursion
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[k-th-symbol-in-grammar.py](./Python/k-th-symbol-in-grammar.py)| Medium | |
 | 1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[n-th-tribonacci-number.py](./Python/n-th-tribonacci-number.py)| Easy | |
 
 ## Ordered Map
