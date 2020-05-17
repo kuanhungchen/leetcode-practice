@@ -218,6 +218,7 @@
 | 1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[subtract-the-product-and-sum-of-digits-of-an-integers.py](./Python/subtract-the-product-and-sum-of-digits-of-an-integer.py)| Easy | |
 | 1359|[Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)|[count-all-valid-pickup-and-delivery-options.py](./Python/count-all-valid-pickup-and-delivery-options.py)| Hard | |
 | 1390|[Four Divisors](https://leetcode.com/problems/four-divisors/)|[four-divisors.py](./Python/four-divisors.py)| Medium | |
+| 1447|[Simplified Fractions](https://leetcode.com/problems/simplified-fractions/)|[simplified-fractions.py](./Python/simplified-fractions.py)| Medium | |
 
 ## String
 
@@ -266,6 +267,7 @@
 | 1432|[Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/)|[max-difference-you-can-get-from-changing-an-integer.py](./Python/max-difference-you-can-get-from-changing-an-integer.py)| Medium | |
 | 1433|[Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/)|[check-if-a-string-can-break-another-string.py](./Python/check-if-a-string-can-break-another-string.py)| Medium | Stack |
 | 1436|[Destination City](https://leetcode.com/problems/destination-city/)|[destination-city.py](./Python/destination-city.py)| Easy | Hash Table |
+| 1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[consecutive-characters.py](./Python/consecutive-characters.py)| Easy | |
 
 ## Tree
 
@@ -295,6 +297,7 @@
 | 1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[construct-binary-search-tree-from-preorder-traversal.py](./Python/construct-binary-search-tree-from-preorder-traversal.py)| Medium | |
 | 1214|[Two Sum BSTs](https://leetcode.com/contest/biweekly-contest-10/problems/two-sum-bsts/)|[two-sum-bsts.py](./Python/two-sum-bsts.py)| Medium | not released yet |
 | 1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[linked-list-in-binary-tree.py](./Python/linked-list-in-binary-tree.py)| Medium | |
+| 1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[count-good-nodes-in-binary-tree.py](./Python/count-good-nodes-in-binary-tree.py)| Medium | |
 
 ## Hash Table
 
@@ -313,6 +316,7 @@
 | 0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[intersection-of-two-arrays.py](./Python/intersection-of-two-arrays.py)| Easy | |
 | 0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[intersection-of-two-arrays-ii.py](./Python/intersection-of-two-arrays-ii.py)| Easy | |
 | 0387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[first-unique-character-in-a-string.py](./Python/first-unique-character-in-a-string.py)| Easy | |
+| 0438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[find-all-anagrams-in-a-string.py](./Python/find-all-anagrams-in-a-string.py)| Medium | |
 | 0447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)|[number-of-boomerangs.py](./Python/number-of-boomerangs.py)| Easy | |
 | 0451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[sort-characters-by-frequency.py](./Python/sort-characters-by-frequency.py)| Medium | |
 | 0463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[island-perimeter.py](./Python/island-perimeter.py)| Easy | |
@@ -357,6 +361,7 @@
 | 1020|[Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)|[number-of-enclaves.py](./Python/number-of-enclaves.py)| Medium | |
 | 1254|[Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)|[number-of-closed-islands.py](./Python/number-of-closed-islands.py)| Medium | |
 | 1391|[Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/)|[check-of-there-is-a-valid-path-in-a-grid.py](./Python/check-if-there-is-a-valid-path-in-a-grid.py)| Medium | |
+| 1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[count-good-nodes-in-binary-tree.py](./Python/count-good-nodes-in-binary-tree.py)| Medium | |
 
 ## Binary Search
 
@@ -513,6 +518,7 @@
 | 0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[linked-list-cycle.py](./Python/linked-list-cycle.py)| Easy | |
 | 0203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[remove-linked-list-elements.py](./Python/remove-linked-list-elements.py)| Easy | |
 | 0234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[palindrome-linked-list.py](./Python/palindrome-linked-list.py)| Easy | |
+| 0328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[odd-even-linked-list.py](./Python/odd-even-linked-list.py)| Medium | |
 | 0445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[add-two-numbers-ii.py](./Python/add-two-numbers-ii.py)| Medium | |
 | 0707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[design-linked-list.py](./Python/design-linked-list.py)| Easy | |
 | 0876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[middle-of-the-linked-list.py](./Python/middle-of-the-linked-list.py)| Easy | |
