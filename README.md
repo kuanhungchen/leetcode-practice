@@ -152,6 +152,7 @@
 | 1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[kids-with-the-greatest-number-of-candies.py](./Python/kids-with-the-greatest-number-of-candies.py)| Easy | |
 | 1437|[Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)|[check-if-all-1s-are-at-least-length-k-places-away](./Python/check-if-all-1s-are-at-least-length-k-places-away.py)| Medium | Sliding Window |
 | 1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|[longest-continuous-subarray-with-absolute-diss-less-than-or-equal-to-limit.py](./Python/longest-continuous-subarray-with-absolute-diss-less-than-or-equal-to-limit.py)| Medium | MinMaxQueue |
+| 1451|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)|[number-of-students-doing-homework-at-a-given-time.py](./Python/number-of-students-doing-homework-at-a-given-time.py)| Easy | |
 
 ## Dynamic Programming
 
@@ -269,6 +270,8 @@
 | 1433|[Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/)|[check-if-a-string-can-break-another-string.py](./Python/check-if-a-string-can-break-another-string.py)| Medium | Stack |
 | 1436|[Destination City](https://leetcode.com/problems/destination-city/)|[destination-city.py](./Python/destination-city.py)| Easy | Hash Table |
 | 1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[consecutive-characters.py](./Python/consecutive-characters.py)| Easy | |
+| 1451|[Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/)|[rearrange-words-in-a-sentence.py](./Python/rearrange-words-in-a-sentence.py)| Medium | |
+| 1452|[People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/)|[people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list.py](./Python/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list.py)| Medium | |
 
 ## Tree
 
@@ -445,6 +448,7 @@
 | 0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[intersection-of-two-arrays-ii.py](./Python/intersection-of-two-arrays-ii.py)| Easy | |
 | 0457|[Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)|[circular-array-loop.py](./Python/circular-array-loop.py)| Medium | |
 | 0532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[k-diff-pairs-in-an-array.py](./Python/k-diff-pairs-in-an-array.py)| Easy | |
+| 0567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[permutation-in-string.py](./Python/permutation-in-string.py)| Medium | |
 | 0763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[partition-labels.py](./Python/partition-labels.py)| Medium | |
 | 0844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[backspace-string-compare.py](./Python/backspace-string-compare.py)| Easy | |
 | 0845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)|[longest-mountain-in-array.py](./Python/longest-mountain-in-array.py)| Medium | |
@@ -475,6 +479,7 @@
 | 0682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[baseball-game.py](./Python/baseball-game.py)| Easy | |
 | 0844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[backspace-string-compare.py](./Python/backspace-string-compare.py)| Easy | |
 | 0895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[maximum-frequency-stack.py](./Python/maximum-frequency-stack.py)| Hard | |
+| 0901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[online-stock-span.py](./Python/online-stock-span.py)| Medium |Linked List|
 | 0921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[minimum-add-to-make-parenthess-valid.py](./Python/minimum-add-to-make-parentheses-valid.py)| Medium | |
 | 1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)|[remove-outermost-parentheses.py](./Python/remove-outermost-parentheses.py)| Easy | |
 | 1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[remove-all-adjacent-duplicates-in-string.py](./Python/remove-all-adjacent-duplicates-in-string.py)| Easy | |
@@ -553,6 +558,8 @@
 | 1383|[Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)|[maximum-performance-of-a-team.py](./Python/maximum-performance-of-a-team.py)| Hard | |
 | 1403|[Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)|[minimum-subsequence-in-non-increasing-order.py](./Python/minimum-subsequence-in-non-increasing-order.py)| Easy | |
 | 1424|[Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/)|[diagonal-traverse-ii.py](./Python/diagonal-traverese-ii.py)| Medium | |
+| 1451|[Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/)|[rearrange-words-in-a-sentence.py](./Python/rearrange-words-in-a-sentence.py)| Medium | |
+| 1452|[People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/)|[people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list.py](./Python/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list.py)| Medium | |
 
 ## Bit Manipulation
 
@@ -584,6 +591,7 @@
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[permutation-in-string.py](./Python/permutation-in-string.py)| Medium | |
 | 1074|[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[number-of-submatrices-that-sum-to-target.py](./Python/number-of-submatrices-that-sum-to-target.py)| Hard | |
 | 1208|[Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)|[get-equal-substrings-within-budget.py](./Python/get-equal-substrings-within-budget.py)| Medium | |
 | 1423|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[maximum-points-you-can-obtain-from-cards.py](./Python/maximum-points-you-can-obtain-from-cards.py)| Medium | |
