@@ -15,7 +15,7 @@
 |[Binary Search Tree](#binary-search-tree)|[No category](#no-category)||||
 
 ## Contest notes
-- Global Ranking: 5065/99851 (updated: 05/21/2020)
+- Global Ranking: 4916/101003 (updated: 05/27/2020)
 - Taiwan Ranking: 119/1172 (updated: 05/21/2020)
 
 |  👻 |  👅 |  🏁 |  🌈 |  💎 | 
