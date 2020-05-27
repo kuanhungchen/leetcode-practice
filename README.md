@@ -107,6 +107,7 @@
 | 1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[pairs-of-songs-with-total-durations-divisible-by-60.py](./Python/pairs-of-songs-with-total-durations-divisible-by-60.py)| Easy | |
 | 1013|[Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)|[partition-array-into-three-parts-with-equal-sum](./Python/partition-array-into-three-parts-with-equal-sum.py)| Easy | |
 | 1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)|[binary-prefix-divisible-by-5.py](./Python/binary-prefix-divisible-by-5.py)| Easy | |
+| 1035|[Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)|[uncrossed-lines.py](./Python/uncrossed-lines.py)| Medium | |
 | 1051|[Height Checker](https://leetcode.com/problems/height-checker/)|[height-checker.py](./Python/height-checker.py)| Easy | |
 | 1074|[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[number-of-submatrices-that-sum-to-target.py](./Python/number-of-submatrices-that-sum-to-target.py)| Hard | |
 | 1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[duplicate-zeros.py](./Python/duplicate-zeros.py)| Easy | |
@@ -162,7 +163,7 @@
 | 0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[maximum-subarray.py](./Python/maximum-subarray.py)[maximum-subarray.c](./C/maximum-subarray.c)| Easy | |
 | 0062|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[unique-paths.py](./Python/unique-paths.py)| Medium | |
 | 0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[unique-paths-ii.py](./Python/unique-paths-ii.py)| Medium | |
-| 0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[climbing-stairs.c](./C/climbing-stairs.c)| Easy | |
+| 0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[climbing-stairs.py](./Python/climbing-stairs.py)[climbing-stairs.c](./C/climbing-stairs.c)| Easy | |
 | 0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[best-time-to-buy-and-sell-stock.py](./Python/best-time-to-buy-and-sell-stock.py)| Easy | |
 | 0198|[House Robber](https://leetcode.com/problems/house-robber/)|[house-robber.py](./Python/house-robber.py)[house-robber.c](./C/house-robber.c)| Easy | |
 | 0221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[maximal-square.py](./Python/maximal-square.py)| Medium | | 
