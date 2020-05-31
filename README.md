@@ -11,8 +11,8 @@
 |[Hash Table](#hash-table)|[Depth-first Search](#depth-first-search)|[Binary Search](#binary-search)|[Greedy](#greedy)|[Two Pointers](#two-pointers)|
 |[Breadth First Search](#breadth-first-search)|[Stack](#stack)|[Backtracking](#backtracking)|[Design](#design)|[Linked List](#linked-list)|
 |[Graph](#graph)|[Sort](#sort)|[Bit Manipulation](#bit-manipulation)|[Heap](#heap)|[Divide and Conquer](#divide-and-conquer)|
-|[Recursion](#recursion)|[Ordered Map](#ordered-map)|[Brainteaser](#brainteaser)|[Geometry](#geometry)|[Line Sweep](#line-sweep)|
-|[Binary Search Tree](#binary-search-tree)|[No category](#no-category)||||
+|[Recursion](#recursion)|[Ordered Map](#ordered-map)|[Topological Sort](#topological-sort)|[Brainteaser](#brainteaser)|[Geometry](#geometry)|
+|[Line Sweep](#line-sweep)|[Binary Search Tree](#binary-search-tree)|[No category](#no-category)||||
 
 ## Contest notes
 - Global Ranking: 4916/101003 (updated: 05/27/2020)
@@ -155,6 +155,9 @@
 | 1437|[Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)|[check-if-all-1s-are-at-least-length-k-places-away](./Python/check-if-all-1s-are-at-least-length-k-places-away.py)| Medium | Sliding Window |
 | 1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|[longest-continuous-subarray-with-absolute-diss-less-than-or-equal-to-limit.py](./Python/longest-continuous-subarray-with-absolute-diss-less-than-or-equal-to-limit.py)| Medium | MinMaxQueue |
 | 1451|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)|[number-of-students-doing-homework-at-a-given-time.py](./Python/number-of-students-doing-homework-at-a-given-time.py)| Easy | |
+| 1460|[Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)|[make-two-arrays-equal-by-reversing-sub-arrays.py](./Python/make-two-arrays-equal-by-reversing-sub-arrays.py)| Easy | |
+| 1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[maximum-product-of-two-elements-in-an-array.py](./Python/maximum-product-of-two-elements-in-an-array.py)| Easy | |
+| 1465|[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|[maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.py](./Python/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.py)| Medium | |
 
 ## Dynamic Programming
 
@@ -164,6 +167,7 @@
 | 0062|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[unique-paths.py](./Python/unique-paths.py)| Medium | |
 | 0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[unique-paths-ii.py](./Python/unique-paths-ii.py)| Medium | |
 | 0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[climbing-stairs.py](./Python/climbing-stairs.py)[climbing-stairs.c](./C/climbing-stairs.c)| Easy | |
+| 0072|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[edit-distance.py](./Python/edit-distance.py)| Hard | |
 | 0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[best-time-to-buy-and-sell-stock.py](./Python/best-time-to-buy-and-sell-stock.py)| Easy | |
 | 0198|[House Robber](https://leetcode.com/problems/house-robber/)|[house-robber.py](./Python/house-robber.py)[house-robber.c](./C/house-robber.c)| Easy | |
 | 0221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[maximal-square.py](./Python/maximal-square.py)| Medium | | 
@@ -231,6 +235,7 @@
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[implement-strstr.py](./Python/implement-strstr.py)| Easy | |
 | 0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[group-anagrams.py](./Python/group-anagrams.py)| Medium | |
+| 0072|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[edit-distance.py](./Python/edit-distance.py)| Hard | |
 | 0093|[Restore IP Address](https://leetcode.com/problems/restore-ip-addresses/)|[restore-ip-address.py](./Python/restore-ip-address.py)| Medium | |
 | 0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[valid-palindrome.py](./Python/valid-palindrome.py)| Easy | |
 | 0344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[reverse-string.py](./Python/reverse-string.py)| Easy | |
@@ -275,6 +280,7 @@
 | 1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[consecutive-characters.py](./Python/consecutive-characters.py)| Easy | |
 | 1451|[Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/)|[rearrange-words-in-a-sentence.py](./Python/rearrange-words-in-a-sentence.py)| Medium | |
 | 1452|[People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/)|[people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list.py](./Python/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list.py)| Medium | |
+| 1461|[Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)|[check-if-a-string-contains-all-binary-codes-of-size-k.py](./Python/check-if-a-string-contains-all-binary-codes-of-size-k.py)| Medium | |
 
 ## Tree
 
@@ -305,6 +311,7 @@
 | 1214|[Two Sum BSTs](https://leetcode.com/contest/biweekly-contest-10/problems/two-sum-bsts/)|[two-sum-bsts.py](./Python/two-sum-bsts.py)| Medium | not released yet |
 | 1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[linked-list-in-binary-tree.py](./Python/linked-list-in-binary-tree.py)| Medium | |
 | 1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[count-good-nodes-in-binary-tree.py](./Python/count-good-nodes-in-binary-tree.py)| Medium | |
+| 1466|[Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)|[reorder-routes-to-make-all-paths-lead-to-the-city-zero.py](./Python/reorder-routes-to-make-all-paths-lead-to-the-city-zero.py)| Medium | |
 
 ## Hash Table
 
@@ -356,6 +363,7 @@
 | 0111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[minimum-depth-of-binary-tree.py](./Python/minimum-depth-of-binary-tree.py)| Easy | |
 | 0112|[Path Sum](https://leetcode.com/problems/path-sum/)|[path-sum.py](./Python/path-sum.py)| Easy | |
 | 0116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[populating-next-right-pointers-in-each-node.py](./Python/populating-next-right-pointers-in-each-node.py)| Medium | |
+| 0207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[course-schedule.py](./Python/course-schedule.py)| Medium | |
 | 0257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[binary-tree-paths.py](./Python/binary-tree-paths.py)| Easy | |
 | 0559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[maximum-depth-of-n-ary-tree.py](./Python/maximum-depth-of-n-ary-tree.py)| Easy | |
 | 0638|[Shopping Offers](https://leetcode.com/problems/shopping-offers/)|[shopping-offers.py](./Python/shopping-offers.py)| Medium | |
@@ -369,6 +377,7 @@
 | 1254|[Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)|[number-of-closed-islands.py](./Python/number-of-closed-islands.py)| Medium | |
 | 1391|[Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/)|[check-of-there-is-a-valid-path-in-a-grid.py](./Python/check-if-there-is-a-valid-path-in-a-grid.py)| Medium | |
 | 1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[count-good-nodes-in-binary-tree.py](./Python/count-good-nodes-in-binary-tree.py)| Medium | |
+| 1466|[Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)|[reorder-routes-to-make-all-paths-lead-to-the-city-zero.py](./Python/reorder-routes-to-make-all-paths-lead-to-the-city-zero.py)| Medium | |
 
 ## Binary Search
 
@@ -465,6 +474,7 @@
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[minimum-depth-of-binary-tree.py](./Python/minimum-depth-of-binary-tree.py)| Easy | |
+| 0207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[course-schedule.py](./Python/course-schedule.py)| Medium | |
 | 0559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[maximum-depth-of-n-ary-tree.py](./Python/maximum-depth-of-n-ary-tree.py)| Easy | |
 | 1298|[Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/)|[maximum-candies-you-can-get-from-boxes.py](./Python/maximum-candies-you-can-get-from-boxes.py)| Hard | |
 | 1368|[Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/)|[minimum-cost-to-make-at-least-one-valid-path-in-a-grid.py](./Python/minimum-cost-to-make-at-least-one-valid-path-in-a-grid.py)| Hard | |
@@ -538,9 +548,11 @@
 
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[course-schedule.py](./Python/course-schedule.py)| Medium | |
 | 0841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[keys-and-rooms.py](./Python/keys-and-rooms.py)| Medium | |
 | 0997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[find-the-town-judge.py](./Python/find-the-town-judge.py)| Easy | |
 | 1267|[Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)|[count-servers-that-communicate.py](./Python/count-servers-that-communicate.py)| Medium | |
+| 1462|[Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/)|[course-schedule-iv.py](./Python/course-schedule-iv.py)| Medium | |
 
 ## Sort
 
@@ -581,6 +593,7 @@
 | 1297|[Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/)|[maximum-number-of-occurrences-of-a-substring.py](./Python/maximum-number-of-occurrences-of-a-substring.py)| Medium | |
 | 1356|[Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[sort-integers-by-the-number-of-1-bits.py](./Python/sort-integers-by-the-number-of-1-bits.py)| Easy | |
 | 1404|[Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)|[number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py](./Python/number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py)| Medium | |
+| 1461|[Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)|[check-if-a-string-contains-all-binary-codes-of-size-k.py](./Python/check-if-a-string-contains-all-binary-codes-of-size-k.py)| Medium | |
 
 ## Heap
 
@@ -627,6 +640,12 @@
 |  #  | Problem           |  Solution       | Difficulty    | Notes | 
 |:---:|:-----------------:|:---------------:|:-------------:|:-----:|
 | 0846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/)|[hand-of-straights.py](./Python/hand-of-straights.py)| Medium | |
+
+## Topological Sort
+
+|  #  | Problem           |  Solution       | Difficulty    | Notes | 
+|:---:|:-----------------:|:---------------:|:-------------:|:-----:|
+| 0207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[course-schedule.py](./Python/course-schedule.py)| Medium | |
 
 ## Brainteaser
 
