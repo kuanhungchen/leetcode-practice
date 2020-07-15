@@ -16,7 +16,7 @@
 
 ## Contest ranking
 - Global Ranking: 4883/111993 (updated: 07/15/2020)
-- Taiwan Ranking: 120/1143 (updated: 07/01/2020)
+- Taiwan Ranking: 123/1134 (updated: 07/15/2020)
 
 ## Conceptual notes
 
