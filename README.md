@@ -14,13 +14,13 @@
 |[Recursion](#recursion)|[Ordered Map](#ordered-map)|[Topological Sort](#topological-sort)|[Brainteaser](#brainteaser)|[Geometry](#geometry)|
 |[Line Sweep](#line-sweep)|[Binary Search Tree](#binary-search-tree)|[No category](#no-category)||||
 
-## Contest notes
+## Contest ranking
 - Global Ranking: 4883/111993 (updated: 07/15/2020)
 - Taiwan Ranking: 120/1143 (updated: 07/01/2020)
 
-|  👻 |  👅 |  🏁 |  🌈 |  💎 | 
-|:---:|:---:|:---:|:---:|:---:|
-|[Weekly 184](https://kuanhungchen.github.io/2020/04/25/LeetCode-Weekly-Contest-184/)|[Biweekly 23](https://kuanhungchen.github.io/2020/04/05/LeetCode-Biweekly-Contest-23/)|[Weekly 182](https://kuanhungchen.github.io/2020/04/01/LeetCode-Weekly-Contest-182/)|[Weekly 181](https://kuanhungchen.github.io/2020/04/03/LeetCode-Weekly-Contest-181/)|[Weekly 178](https://kuanhungchen.github.io/2020/03/02/LeetCode-Weekly-Contest-178/)|
+## Conceptual notes
+
+🚧 Under construction 🚧
 
 ## Notes
 
