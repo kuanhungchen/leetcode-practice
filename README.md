@@ -18,17 +18,14 @@
 - Global Ranking: 4976/112968 (updated: 07/23/2020)
 - Taiwan Ranking: 123/1191 (updated: 07/23/2020)
 
-## Conceptual notes
-
-🚧 Under construction 🚧
-
 ## Notes
 
-* [lru-cache.md](./notes/lru-cache.md)
-* [collections](./notes/collections.md)
-* [str-vs-repr](./notes/str-vs-repr.md)
-* [zip](./notes/zip.md)
-* [heapq](./notes/heapq.md)
+* [1498. Number of Subsequences That Satisfy the Given Sum](https://kuanhungchen.github.io/2020/07/15/number-of-subsequences-that-satisfy-the-given-sum/)
+* [1499. Max Value of Equation](https://kuanhungchen.github.io/2020/07/15/max-value-of-equation/)
+* [1504. Count Submatrices With All Ones](https://kuanhungchen.github.io/2020/07/15/count-submatrices-with-all-ones/)
+* [1519. Number of Nodes in the Sub-Tree With the Same Label](https://kuanhungchen.github.io/2020/07/20/number-of-nodes-in-the-sub-tree-with-the-same-label/)
+
+* [Binary Search](https://kuanhungchen.github.io/2020/07/16/binary-search/)
 
 ## Array
 
