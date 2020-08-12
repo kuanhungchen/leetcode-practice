@@ -15,8 +15,8 @@
 |[Line Sweep](#line-sweep)|[Binary Search Tree](#binary-search-tree)|[No category](#no-category)||||
 
 ## Contest ranking
-- Global Ranking: 5129/115035 (updated: 07/30/2020)
-- Taiwan Ranking: 126/1168 (updated: 07/30/2020)
+- Global Ranking: 5334/116630 (updated: 08/12/2020)
+- Taiwan Ranking: 127/1121 (updated: 08/12/2020)
 
 ## Notes
 
