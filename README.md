@@ -20,13 +20,13 @@
 
 ## Notes
 
+* [Trie](https://kuanhungchen.github.io/2020/08/06/trie-template/)
 * [1530. Number of Good Leaf Nodes Pairs](https://kuanhungchen.github.io/2020/08/04/number-of-good-leaf-nodes-pairs/)
 * [1524. Number of Sub-arrays With Odd Sum](https://kuanhungchen.github.io/2020/07/30/number-of-sub-arrays-with-odd-sum/)
 * [1498. Number of Subsequences That Satisfy the Given Sum](https://kuanhungchen.github.io/2020/07/15/number-of-subsequences-that-satisfy-the-given-sum/)
 * [1499. Max Value of Equation](https://kuanhungchen.github.io/2020/07/15/max-value-of-equation/)
 * [1504. Count Submatrices With All Ones](https://kuanhungchen.github.io/2020/07/15/count-submatrices-with-all-ones/)
 * [1519. Number of Nodes in the Sub-Tree With the Same Label](https://kuanhungchen.github.io/2020/07/20/number-of-nodes-in-the-sub-tree-with-the-same-label/)
-
 * [Binary Search](https://kuanhungchen.github.io/2020/07/16/binary-search/)
 
 ## Array
